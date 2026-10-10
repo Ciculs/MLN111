@@ -1577,6 +1577,343 @@
       font-weight: 700;
     }
 
+    /* MULTI-CHOICE QUESTION STYLES */
+    .multi-choice-indicator {
+      background: rgba(37, 99, 235, 0.08);
+      border: 1px solid rgba(37, 99, 235, 0.25);
+      border-radius: var(--radius-sm);
+      padding: 0.65rem 1rem;
+      margin-bottom: 0.85rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      animation: fadeIn 0.2s ease;
+    }
+
+    .multi-indicator-title {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-weight: 700;
+      font-size: 0.88rem;
+      color: var(--primary);
+    }
+
+    .multi-indicator-status {
+      background: var(--primary);
+      color: #fff;
+      font-weight: 700;
+      font-size: 0.8rem;
+      padding: 0.25rem 0.65rem;
+      border-radius: 999px;
+      font-family: var(--font-mono);
+      white-space: nowrap;
+    }
+
+    .option-btn.multi-picked-correct {
+      background: rgba(16, 185, 129, 0.12) !important;
+      border-color: var(--success) !important;
+      color: var(--text) !important;
+      transform: none !important;
+    }
+
+    .option-btn.multi-picked-correct .option-badge {
+      background: var(--success) !important;
+      color: #fff !important;
+      border-color: var(--success) !important;
+    }
+
+    .option-checkbox-indicator {
+      margin-left: auto;
+      width: 22px;
+      height: 22px;
+      border-radius: 4px;
+      border: 1.5px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.8rem;
+      font-weight: 800;
+      flex-shrink: 0;
+      transition: all 0.15s ease;
+    }
+
+    .option-btn.multi-picked-correct .option-checkbox-indicator {
+      background: var(--success);
+      border-color: var(--success);
+      color: #fff;
+    }
+
+    .option-btn.selected-wrong .option-checkbox-indicator {
+      background: var(--error);
+      border-color: var(--error);
+      color: #fff;
+    }
+
+    .option-btn.reveal-correct .option-checkbox-indicator {
+      background: var(--success);
+      border-color: var(--success);
+      color: #fff;
+    }
+
+    /* RETRY REVIEW BANNER & BADGES */
+    .batch-question-review-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.45rem 0.85rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.84rem;
+      font-weight: 700;
+      margin-bottom: 0.85rem;
+      width: 100%;
+      line-height: 1.4;
+    }
+
+    .batch-question-review-badge.correct-badge {
+      background: rgba(16, 185, 129, 0.12);
+      color: var(--success);
+      border: 1px solid rgba(16, 185, 129, 0.25);
+    }
+
+    .batch-question-review-badge.fixed-badge {
+      background: rgba(139, 92, 246, 0.12);
+      color: #8b5cf6;
+      border: 1px solid rgba(139, 92, 246, 0.25);
+    }
+
+    .batch-question-review-badge.wrong-badge {
+      background: rgba(239, 68, 68, 0.12);
+      color: var(--error);
+      border: 1px solid rgba(239, 68, 68, 0.25);
+    }
+
+    /* BATCH SUMMARY MODAL STYLES */
+    .modal.batch-summary-dialog {
+      max-width: 920px;
+      width: 95%;
+      max-height: 90vh;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow-lg);
+    }
+
+    .batch-summary-header {
+      padding: 1.5rem 1.75rem 1.15rem;
+      background: linear-gradient(135deg, rgba(37, 99, 235, 0.08) 0%, rgba(139, 92, 246, 0.08) 100%);
+      border-bottom: 1px solid var(--border);
+      position: relative;
+    }
+
+    .summary-header-badge {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+      padding: 0.25rem 0.65rem;
+      border-radius: 999px;
+      margin-bottom: 0.5rem;
+      text-transform: uppercase;
+    }
+
+    .summary-header-badge.badge-perfect {
+      background: rgba(245, 158, 11, 0.15);
+      color: #b45309;
+      border: 1px solid rgba(245, 158, 11, 0.35);
+    }
+
+    .summary-header-badge.badge-cleared {
+      background: rgba(16, 185, 129, 0.15);
+      color: var(--success);
+      border: 1px solid rgba(16, 185, 129, 0.35);
+    }
+
+    .summary-header-title {
+      font-size: 1.35rem;
+      font-weight: 800;
+      color: var(--text);
+      margin-bottom: 0.35rem;
+    }
+
+    .summary-header-subtitle {
+      font-size: 0.88rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+      margin-bottom: 0.85rem;
+    }
+
+    .summary-stats-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.65rem;
+    }
+
+    .stat-tag {
+      font-size: 0.8rem;
+      padding: 0.3rem 0.65rem;
+      border-radius: var(--radius-sm);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text);
+    }
+
+    .batch-summary-content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 1.25rem 1.75rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+      background: var(--bg);
+    }
+
+    .batch-summary-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1rem 1.25rem;
+      box-shadow: var(--shadow-sm);
+      transition: all 0.15s ease;
+    }
+
+    .batch-summary-card:hover {
+      border-color: var(--text-sub);
+    }
+
+    .summary-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      margin-bottom: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .summary-card-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .summary-q-num {
+      font-family: var(--font-mono);
+      font-size: 0.82rem;
+      font-weight: 800;
+      color: var(--primary);
+    }
+
+    .summary-card-tags {
+      display: flex;
+      gap: 0.4rem;
+      align-items: center;
+    }
+
+    .summary-status-tag {
+      font-size: 0.75rem;
+      font-weight: 700;
+      padding: 0.2rem 0.55rem;
+      border-radius: 999px;
+    }
+
+    .summary-status-tag.tag-correct {
+      background: rgba(16, 185, 129, 0.12);
+      color: var(--success);
+    }
+
+    .summary-status-tag.tag-fixed {
+      background: rgba(139, 92, 246, 0.12);
+      color: #8b5cf6;
+    }
+
+    .summary-status-tag.tag-wrong {
+      background: rgba(239, 68, 68, 0.12);
+      color: var(--error);
+    }
+
+    .summary-status-tag.tag-multi {
+      background: rgba(37, 99, 235, 0.12);
+      color: var(--primary);
+    }
+
+    .summary-card-question {
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.55;
+      margin-bottom: 0.65rem;
+    }
+
+    .summary-card-ans-box {
+      background: rgba(16, 185, 129, 0.08);
+      border-left: 3.5px solid var(--success);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      padding: 0.65rem 0.85rem;
+      margin-top: 0.4rem;
+    }
+
+    .summary-ans-heading {
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+      color: var(--success);
+      margin-bottom: 0.25rem;
+    }
+
+    .summary-ans-single {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.45;
+    }
+
+    .summary-ans-multi-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+
+    .summary-ans-multi-item {
+      font-size: 0.88rem;
+      color: var(--text);
+      line-height: 1.4;
+    }
+
+    .summary-ans-multi-item strong {
+      color: var(--success);
+    }
+
+    .summary-card-extra {
+      background: rgba(245, 158, 11, 0.07);
+      border-left: 3.5px solid #f59e0b;
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      padding: 0.5rem 0.85rem;
+      font-size: 0.82rem;
+      color: var(--text-sub);
+      margin-top: 0.4rem;
+      line-height: 1.45;
+    }
+
+    .batch-summary-footer {
+      padding: 1rem 1.75rem;
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .footer-left-info .hint-text {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+
 </style>
 </head>
 <body>
@@ -1717,6 +2054,9 @@
             <button class="btn btn-sm" id="btn-next-batch" onclick="navBatch(1)" title="Batch sau (Alt + PageDown)">
               Batch sau ▶
             </button>
+            <button class="btn btn-sm btn-secondary" onclick="showCurrentBatchSummaryModal()" title="Xem tổng hợp 10 câu hỏi và đáp án của Batch này">
+              📋 Tổng hợp 10 câu
+            </button>
           </div>
 
           <!-- Status & Phase Banner -->
@@ -1737,15 +2077,18 @@
             <span class="skip-icon">⚠️</span>
             <span class="skip-text" id="skip-notice-text">Bạn đã chọn sai! Đang chuyển câu tiếp theo sau 0.9s để giữ nhịp học. Cuối batch sẽ quay lại làm lại câu này!</span>
           </div>
-          <button class="btn btn-sm" style="background: var(--surface); color: #b78103; border: 1.5px solid #ffe082; font-weight: 700;" onclick="skipToNextNow()">Bỏ qua ngay ⏩</button>
+          <button class="btn btn-sm" style="background: var(--surface); color: #b78103; border: 1.5px solid #ffe082; font-weight: 700;" onclick="skipToNextNow()">Bỏ qua ngay ⏩ <span class="keyboard-hint">→</span></button>
         </div>
 
         <!-- Retry Phase Alert Banner -->
         <div id="batch-retry-banner" class="batch-retry-banner" style="display: none;">
           <div class="retry-banner-text" id="retry-banner-text">
-            🔄 <strong>VÒNG SỬA SAI:</strong> Bạn đã hoàn thành 10 câu vòng 1. Hãy trả lời lại các câu đã làm sai dưới đây để làm chủ 100% batch!
+            🔄 <strong>VÒNG SỬA SAI:</strong> Bạn đã hoàn thành 10 câu vòng 1. Hãy làm lại các câu đã làm sai dưới đây. Bạn có thể nhấn vào các số 1-10 trên thanh tiến trình hoặc dùng phím ← → để xem lại các câu đã làm!
           </div>
-          <button class="btn btn-sm btn-primary" onclick="dismissRetryBanner()">Bắt đầu sửa sai 🎯</button>
+          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+            <button class="btn btn-sm btn-secondary" onclick="showCurrentBatchSummaryModal()">📋 Tổng hợp 10 câu</button>
+            <button class="btn btn-sm btn-primary" onclick="jumpToNextWrongInBatch()">🎯 Làm câu sai tiếp ➡</button>
+          </div>
         </div>
       </div>
 
@@ -1761,6 +2104,12 @@
           </button>
         </div>
 
+        <!-- Retry review badge if viewing done questions in retry phase -->
+        <div id="batch-q-review-badge" class="batch-question-review-badge" style="display: none;"></div>
+
+        <!-- Multi-choice indicator badge and counter -->
+        <div id="multi-choice-indicator" class="multi-choice-indicator" style="display: none;"></div>
+
         <div class="question-text" id="q-text">Đang tải câu hỏi...</div>
 
         <div class="options-list" id="q-options-container">
@@ -1774,10 +2123,10 @@
 
         <div class="quiz-nav">
           <button class="btn" id="btn-prev" onclick="navQuiz(-1)">
-            ⬅ Câu trước <span class="keyboard-hint">Alt+←</span>
+            ⬅ Câu trước <span class="keyboard-hint">←</span>
           </button>
           <button class="btn btn-primary" id="btn-next" onclick="navQuiz(1)">
-            Câu tiếp ➡ <span class="keyboard-hint">Space / Alt+→</span>
+            Câu tiếp ➡ <span class="keyboard-hint">→ / Space</span>
           </button>
         </div>
       </div>
@@ -2001,15 +2350,19 @@
       <table style="width: 100%; border-collapse: collapse; font-size: 0.9rem; margin-bottom: 1.5rem;">
         <tr style="border-bottom: 1px solid var(--border);">
           <td style="padding: 0.6rem 0;"><span class="shortcut-badge">A</span> <span class="shortcut-badge">B</span> <span class="shortcut-badge">C</span> <span class="shortcut-badge">D</span> hoặc <span class="shortcut-badge">1</span>-<span class="shortcut-badge">4</span></td>
-          <td style="padding: 0.6rem 0; color: var(--text-muted);">Chọn đáp án tương ứng</td>
+          <td style="padding: 0.6rem 0; color: var(--text-muted);">Chọn đáp án (với câu nhiều đáp án: bấm để tick lần lượt)</td>
         </tr>
         <tr style="border-bottom: 1px solid var(--border);">
-          <td style="padding: 0.6rem 0;"><span class="shortcut-badge">Space</span> hoặc <span class="shortcut-badge">Alt + ➔</span></td>
-          <td style="padding: 0.6rem 0; color: var(--text-muted);">Câu tiếp theo / Lật thẻ Flashcard</td>
+          <td style="padding: 0.6rem 0;"><span class="shortcut-badge">➔</span> hoặc <span class="shortcut-badge">Space</span></td>
+          <td style="padding: 0.6rem 0; color: var(--text-muted);">Câu tiếp theo / Bỏ qua thông báo lỗi / Lật Flashcard</td>
         </tr>
         <tr style="border-bottom: 1px solid var(--border);">
-          <td style="padding: 0.6rem 0;"><span class="shortcut-badge">Alt + ⬅</span></td>
-          <td style="padding: 0.6rem 0; color: var(--text-muted);">Quay lại câu trước</td>
+          <td style="padding: 0.6rem 0;"><span class="shortcut-badge">⬅</span></td>
+          <td style="padding: 0.6rem 0; color: var(--text-muted);">Quay lại câu trước (xem lại tiến độ)</td>
+        </tr>
+        <tr style="border-bottom: 1px solid var(--border);">
+          <td style="padding: 0.6rem 0;"><span class="shortcut-badge">Enter</span></td>
+          <td style="padding: 0.6rem 0; color: var(--text-muted);">Xác nhận chuyển sang Batch tiếp theo khi xem tổng hợp</td>
         </tr>
         <tr style="border-bottom: 1px solid var(--border);">
           <td style="padding: 0.6rem 0;"><span class="shortcut-badge">S</span></td>
@@ -2043,7 +2396,7 @@
       </div>
       <div class="celebration-actions">
         <button class="btn btn-primary btn-lg" onclick="goToNextBatchFromModal()">
-          Sang Batch Tiếp Theo ➡ <span class="keyboard-hint">Enter</span>
+          Xem Tổng Hợp & Sang Batch Tiếp ➡ <span class="keyboard-hint">Enter</span>
         </button>
         <button class="btn btn-secondary" onclick="retryCurrentBatch()">
           Luyện lại Batch này 🔄
@@ -2065,11 +2418,48 @@
       </p>
       <div class="celebration-actions">
         <button class="btn btn-primary btn-lg" onclick="goToNextBatchFromClearedModal()">
-          Sang Batch Tiếp Theo ➡ <span class="keyboard-hint">Enter</span>
+          Xem Tổng Hợp & Sang Batch Tiếp ➡ <span class="keyboard-hint">Enter</span>
         </button>
         <button class="btn btn-secondary" onclick="retryCurrentBatch()">
           Luyện lại Batch này 🔄
         </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- BATCH SUMMARY MODAL (COMPREHENSIVE 10-QUESTION SUMMARY SCREEN) -->
+  <div id="batch-summary-modal" class="modal-backdrop" onclick="closeBatchSummaryModalOnBackdrop(event)">
+    <div class="modal batch-summary-dialog" onclick="event.stopPropagation()">
+      <div class="batch-summary-header">
+        <div class="summary-header-badge" id="batch-summary-badge">📋 BẢNG TỔNG HỢP KIẾN THỨC BATCH</div>
+        <h2 class="summary-header-title" id="batch-summary-title">Tổng Hợp 10 Câu Hỏi & Đáp Án - Batch 1</h2>
+        <p class="summary-header-subtitle" id="batch-summary-subtitle">
+          Ôn tập kỹ lại 10 câu vừa học trước khi chuyển sang Batch tiếp theo. Màn hình này được lưu giữ cho đến khi bạn sẵn sàng nhấn "Sang Batch Tiếp Theo".
+        </p>
+        <div class="summary-stats-bar" id="batch-summary-stats-bar">
+          <span class="stat-tag" id="stat-batch-count">10 câu hỏi</span>
+          <span class="stat-tag" id="stat-batch-correct">Đúng: 10/10</span>
+          <span class="stat-tag" id="stat-batch-rate">Tỷ lệ: 100%</span>
+        </div>
+      </div>
+      <div class="batch-summary-content" id="batch-summary-list">
+        <!-- Render 10 question cards here -->
+      </div>
+      <div class="batch-summary-footer">
+        <div class="footer-left-info" id="batch-summary-footer-stats">
+          <span class="hint-text">💡 Dùng phím <strong>Enter</strong> hoặc <strong>➔</strong> để chuyển sang Batch tiếp theo</span>
+        </div>
+        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+          <button class="btn btn-secondary" onclick="closeBatchSummaryModal()">
+            Đóng lại / Ôn tập câu hỏi
+          </button>
+          <button class="btn btn-secondary" onclick="retryCurrentBatch()">
+            Luyện lại Batch này 🔄
+          </button>
+          <button class="btn btn-primary btn-lg" id="btn-summary-next-batch" onclick="confirmNextBatchFromSummary()">
+            Sang Batch Tiếp Theo ➡ <span class="keyboard-hint">Enter / →</span>
+          </button>
+        </div>
       </div>
     </div>
   </div>
@@ -2150,6 +2540,7 @@
       batchRetryRecords: {}, // id -> { chosen, correct } for retry round
       batchStepAnswered: false,
       batchMastery: JSON.parse(localStorage.getItem('mln111_batch_mastery') || '{}'),
+      multiChoiceSelections: {}, // id -> ['B', 'C'] list of correct options picked so far
       
       // Flashcard state
       flashcardIndex: 0,
@@ -2200,6 +2591,41 @@
           osc.stop(audioCtx.currentTime + 0.3);
         }
       } catch (e) {}
+    }
+
+    // SOFT TICK SOUND FOR MULTI-CHOICE SELECTIONS
+    function playSoftTick() {
+      try {
+        if (!audioCtx) audioCtx = new AudioContext();
+        if (audioCtx.state === 'suspended') audioCtx.resume();
+        const osc = audioCtx.createOscillator();
+        const gain = audioCtx.createGain();
+        osc.connect(gain);
+        gain.connect(audioCtx.destination);
+        osc.frequency.setValueAtTime(660, audioCtx.currentTime);
+        osc.frequency.setValueAtTime(990, audioCtx.currentTime + 0.03);
+        gain.gain.setValueAtTime(0.09, audioCtx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.12);
+        osc.start();
+        osc.stop(audioCtx.currentTime + 0.12);
+      } catch (e) {}
+    }
+
+    // MULTI-CHOICE AND HTML HELPERS
+    function getQuestionCorrectKeys(q) {
+      if (!q || !q.ans_key) return [];
+      const optKeys = Object.keys(q.options || {}).sort();
+      return optKeys.filter(k => q.ans_key.includes(k));
+    }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
     }
 
     // CELEBRATION TRIUMPH FANFARE SYNTHESIS
@@ -2368,6 +2794,7 @@
       hideBatchSkipNotice();
       hideBatchRetryBanner();
       closeBatchModals();
+      closeBatchSummaryModal();
 
       const totalBatches = Math.ceil(state.quizList.length / state.batchSize) || 1;
       if (batchIdx < 0) batchIdx = 0;
@@ -2385,13 +2812,18 @@
       state.batchQuestionStates = {};
       state.batchUserRecords = {};
       state.batchRetryRecords = {};
+      state.multiChoiceSelections = {};
       state.batchStepAnswered = false;
 
       updateBatchDropdown();
       renderCurrentQuiz();
     }
 
-    function navBatch(step) {
+    function navBatch(step, force = false) {
+      if (step > 0 && !force && Object.keys(state.batchQuestionStates).length > 0) {
+        showBatchSummaryModal();
+        return;
+      }
       loadBatch(state.currentBatchIdx + step, 0);
     }
 
@@ -2427,9 +2859,7 @@
       const container = document.getElementById('batch-dots-container');
       if (!container || state.quizSubMode !== 'batch') return;
 
-      const currentQ = (state.batchPhase === 'round1')
-        ? state.batchQuestions[state.batchInIdx]
-        : state.batchWrongQueue[state.batchRetryInIdx];
+      const currentQ = state.batchQuestions[state.batchInIdx];
       const currentQId = currentQ ? currentQ.id : null;
 
       container.innerHTML = state.batchQuestions.map((q, idx) => {
@@ -2461,13 +2891,33 @@
     }
 
     function onBatchDotClick(idx) {
-      if (state.batchPhase === 'round1') {
-        if (idx >= 0 && idx < state.batchQuestions.length) {
-          state.batchInIdx = idx;
-          state.batchStepAnswered = !!state.batchUserRecords[state.batchQuestions[idx].id];
+      if (idx >= 0 && idx < state.batchQuestions.length) {
+        state.batchInIdx = idx;
+        const q = state.batchQuestions[idx];
+        const status = state.batchQuestionStates[q.id];
+        if (state.batchPhase === 'round1') {
+          state.batchStepAnswered = !!state.batchUserRecords[q.id];
+        } else {
+          state.batchStepAnswered = (status === 'correct' || status === 'fixed');
+        }
+        renderCurrentQuiz();
+      }
+    }
+
+    function jumpToNextWrongInBatch() {
+      if (state.batchQuestions.length === 0) return;
+      const total = state.batchQuestions.length;
+      for (let offset = 1; offset <= total; offset++) {
+        const checkIdx = (state.batchInIdx + offset) % total;
+        const q = state.batchQuestions[checkIdx];
+        if (state.batchQuestionStates[q.id] === 'wrong') {
+          state.batchInIdx = checkIdx;
+          state.batchStepAnswered = false;
           renderCurrentQuiz();
+          return;
         }
       }
+      finishBatchAllCleared();
     }
 
     function jumpToQuizFromInput() {
@@ -2494,14 +2944,120 @@
     function handleBatchOptionSelect(letter) {
       if (state.batchQuestions.length === 0) return;
 
-      const currentQ = (state.batchPhase === 'round1')
-        ? state.batchQuestions[state.batchInIdx]
-        : state.batchWrongQueue[state.batchRetryInIdx];
+      const currentQ = state.batchQuestions[state.batchInIdx];
       if (!currentQ) return;
 
-      if (state.batchStepAnswered) return;
-      state.batchStepAnswered = true;
+      const qStatus = state.batchQuestionStates[currentQ.id];
+      if (state.batchPhase === 'retry' && (qStatus === 'correct' || qStatus === 'fixed')) {
+        return; // Question already reviewed / completed
+      }
 
+      if (state.batchStepAnswered) return;
+
+      const correctKeys = getQuestionCorrectKeys(currentQ);
+      const isMulti = correctKeys.length > 1;
+
+      if (!state.multiChoiceSelections[currentQ.id]) {
+        state.multiChoiceSelections[currentQ.id] = [];
+      }
+      const picked = state.multiChoiceSelections[currentQ.id];
+
+      if (isMulti) {
+        // MULTIPLE CHOICE QUESTION
+        if (picked.includes(letter)) return; // already picked this option
+
+        if (correctKeys.includes(letter)) {
+          // TICKED A CORRECT OPTION
+          picked.push(letter);
+          playSoftTick();
+
+          if (picked.length === correctKeys.length) {
+            // ALL REQUIRED ANSWERS SELECTED CORRECTLY!
+            state.batchStepAnswered = true;
+            playBeep(true);
+            state.streak++;
+            state.wrongIds.delete(currentQ.id);
+            localStorage.setItem('mln111_wrong', JSON.stringify([...state.wrongIds]));
+            updateCounters();
+
+            if (state.batchPhase === 'round1') {
+              state.batchQuestionStates[currentQ.id] = 'correct';
+              state.batchUserRecords[currentQ.id] = { chosen: picked.sort().join(''), correct: true };
+              state.answeredRecords[currentQ.id] = { chosen: picked.sort().join(''), correct: true };
+              renderCurrentQuiz();
+
+              clearTimeout(batchSkipTimer);
+              batchSkipTimer = setTimeout(() => {
+                advanceBatchRound1();
+              }, 700);
+            } else {
+              // RETRY PHASE
+              state.batchQuestionStates[currentQ.id] = 'fixed';
+              state.batchRetryRecords[currentQ.id] = { chosen: picked.sort().join(''), correct: true };
+              renderCurrentQuiz();
+
+              clearTimeout(batchSkipTimer);
+              batchSkipTimer = setTimeout(() => {
+                const stillWrong = state.batchQuestions.filter(q => state.batchQuestionStates[q.id] === 'wrong');
+                if (stillWrong.length === 0) {
+                  finishBatchAllCleared();
+                } else {
+                  jumpToNextWrongInBatch();
+                }
+              }, 700);
+            }
+          } else {
+            // Picked correct option, still need more
+            renderCurrentQuiz();
+          }
+        } else {
+          // PICKED A WRONG OPTION IN MULTIPLE CHOICE -> FAILS QUESTION IMMEDIATELY!
+          state.batchStepAnswered = true;
+          playBeep(false);
+          state.streak = 0;
+          state.wrongIds.add(currentQ.id);
+          localStorage.setItem('mln111_wrong', JSON.stringify([...state.wrongIds]));
+          updateCounters();
+
+          if (state.batchPhase === 'round1') {
+            state.batchQuestionStates[currentQ.id] = 'wrong';
+            state.batchUserRecords[currentQ.id] = { chosen: letter, correct: false, wrongKey: letter };
+            state.answeredRecords[currentQ.id] = { chosen: letter, correct: false };
+            if (!state.batchWrongQueue.some(item => item.id === currentQ.id)) {
+              state.batchWrongQueue.push(currentQ);
+            }
+            renderCurrentQuiz();
+
+            showBatchSkipNotice('⚠️ Bạn đã chọn sai đáp án! Đang chuyển câu tiếp theo sau 0.9s để giữ nhịp học. Cuối batch sẽ quay lại làm lại câu này!');
+
+            clearTimeout(batchSkipTimer);
+            batchSkipTimer = setTimeout(() => {
+              hideBatchSkipNotice();
+              advanceBatchRound1();
+            }, 900);
+          } else {
+            // RETRY PHASE WRONG PICK
+            state.batchQuestionStates[currentQ.id] = 'wrong';
+            state.batchRetryRecords[currentQ.id] = { chosen: letter, correct: false, wrongKey: letter };
+            renderCurrentQuiz();
+
+            showBatchSkipNotice('⚠️ Chưa chính xác! Đang chuyển câu tiếp theo sau 0.9s...');
+
+            clearTimeout(batchSkipTimer);
+            batchSkipTimer = setTimeout(() => {
+              delete state.batchRetryRecords[currentQ.id];
+              delete state.multiChoiceSelections[currentQ.id];
+              state.batchStepAnswered = false;
+              hideBatchSkipNotice();
+              jumpToNextWrongInBatch();
+            }, 900);
+          }
+        }
+        return;
+      }
+
+      // SINGLE CHOICE QUESTION
+      state.batchStepAnswered = true;
       const isCorrect = currentQ.ans_key.includes(letter);
       playBeep(isCorrect);
 
@@ -2520,7 +3076,6 @@
             advanceBatchRound1();
           }, 700);
         } else {
-          // BỊ SAI Ở VÒNG 1: SKIP TIẾP THEO & THÊM VÀO HÀNG ĐỢI SỬA SAI
           state.streak = 0;
           state.wrongIds.add(currentQ.id);
           state.batchQuestionStates[currentQ.id] = 'wrong';
@@ -2540,7 +3095,7 @@
           }, 900);
         }
       } else if (state.batchPhase === 'retry') {
-        // VÒNG SỬA SAI
+        // RETRY PHASE SINGLE CHOICE
         if (isCorrect) {
           state.streak++;
           state.wrongIds.delete(currentQ.id);
@@ -2553,28 +3108,27 @@
 
           clearTimeout(batchSkipTimer);
           batchSkipTimer = setTimeout(() => {
-            state.batchWrongQueue.splice(state.batchRetryInIdx, 1);
-            if (state.batchWrongQueue.length > 0) {
-              if (state.batchRetryInIdx >= state.batchWrongQueue.length) {
-                state.batchRetryInIdx = 0;
-              }
-              state.batchStepAnswered = false;
-              renderCurrentQuiz();
-            } else {
+            const stillWrong = state.batchQuestions.filter(q => state.batchQuestionStates[q.id] === 'wrong');
+            if (stillWrong.length === 0) {
               finishBatchAllCleared();
+            } else {
+              jumpToNextWrongInBatch();
             }
           }, 700);
         } else {
           state.streak = 0;
-          state.batchRetryRecords[currentQ.id] = { chosen: letter, correct: false };
+          state.batchRetryRecords[currentQ.id] = { chosen: letter, correct: false, wrongKey: letter };
           renderCurrentQuiz();
+
+          showBatchSkipNotice('⚠️ Chưa chính xác! Đang chuyển câu tiếp theo sau 0.9s...');
 
           clearTimeout(batchSkipTimer);
           batchSkipTimer = setTimeout(() => {
             delete state.batchRetryRecords[currentQ.id];
             state.batchStepAnswered = false;
-            renderCurrentQuiz();
-          }, 1200);
+            hideBatchSkipNotice();
+            jumpToNextWrongInBatch();
+          }, 900);
         }
       }
     }
@@ -2592,7 +3146,8 @@
 
     function finishBatchRound1() {
       state.batchStepAnswered = false;
-      if (state.batchWrongQueue.length === 0) {
+      const wrongList = state.batchQuestions.filter(q => state.batchQuestionStates[q.id] === 'wrong');
+      if (wrongList.length === 0) {
         // HOÀN HẢO 10/10 NGAY TỪ ĐẦU!
         saveBatchMastery(state.currentBatchIdx, { perfect: true, completed: true });
         launchConfetti();
@@ -2601,8 +3156,9 @@
       } else {
         // CÓ CÂU SAI: CHUYỂN SANG VÒNG SỬA SAI
         state.batchPhase = 'retry';
-        state.batchRetryInIdx = 0;
         state.batchRetryRecords = {};
+        const firstWrongIdx = state.batchQuestions.findIndex(q => state.batchQuestionStates[q.id] === 'wrong');
+        state.batchInIdx = (firstWrongIdx !== -1) ? firstWrongIdx : 0;
         showBatchRetryBanner();
         renderCurrentQuiz();
       }
@@ -2610,6 +3166,8 @@
 
     function finishBatchAllCleared() {
       saveBatchMastery(state.currentBatchIdx, { perfect: false, completed: true });
+      launchConfetti();
+      playCelebrationFanfare();
       showBatchClearedModal();
     }
 
@@ -2630,15 +3188,23 @@
       hideBatchSkipNotice();
       if (state.batchPhase === 'round1') {
         advanceBatchRound1();
+      } else if (state.batchPhase === 'retry') {
+        const currentQ = state.batchQuestions[state.batchInIdx];
+        if (currentQ) {
+          delete state.batchRetryRecords[currentQ.id];
+          delete state.multiChoiceSelections[currentQ.id];
+        }
+        state.batchStepAnswered = false;
+        jumpToNextWrongInBatch();
       }
     }
 
     function showBatchRetryBanner() {
       const el = document.getElementById('batch-retry-banner');
       const txt = document.getElementById('retry-banner-text');
-      const wrongCount = state.batchWrongQueue.length;
+      const wrongCount = state.batchQuestions.filter(q => state.batchQuestionStates[q.id] === 'wrong').length;
       if (txt) {
-        txt.innerHTML = `🔄 <strong>VÒNG SỬA SAI:</strong> Bạn đã hoàn thành 10 câu vòng 1 (đúng ${state.batchQuestions.length - wrongCount}/${state.batchQuestions.length} câu). Giờ hãy trả lời lại <strong>${wrongCount} câu đã làm sai</strong> để làm chủ 100% batch!`;
+        txt.innerHTML = `🔄 <strong>VÒNG SỬA SAI:</strong> Bạn đã hoàn thành 10 câu vòng 1. Còn <strong>${wrongCount} câu đã làm sai</strong> cần sửa. Bạn có thể bấm các số 1-10 hoặc phím ← → để xem lại các câu đã làm!`;
       }
       if (el) el.style.display = 'flex';
     }
@@ -2673,23 +3239,24 @@
       const end = Math.min((state.currentBatchIdx + 1) * state.batchSize, state.quizList.length);
 
       if (desc) {
-        desc.innerHTML = `Tất cả các câu từng làm sai trong <strong>Batch ${state.currentBatchIdx + 1}/${totalBatches} (Câu ${start} - ${end})</strong> đều đã được bạn trả lời đúng. Kiến thức đã được củng cố vững chắc 100%! 👏`;
+        desc.innerHTML = `Tất cả các câu từng làm sai trong <strong>Batch ${state.currentBatchIdx + 1}/${totalBatches} (Câu ${start} - ${end})</strong> đều đã được bạn trả lời đúng. Toàn bộ kiến thức 10 câu đã được khắc sâu 100%! 👏`;
       }
       if (modal) modal.classList.add('show');
     }
 
     function goToNextBatchFromModal() {
       closeBatchModals();
-      navBatch(1);
+      showBatchSummaryModal();
     }
 
     function goToNextBatchFromClearedModal() {
       closeBatchModals();
-      navBatch(1);
+      showBatchSummaryModal();
     }
 
     function retryCurrentBatch() {
       closeBatchModals();
+      closeBatchSummaryModal();
       loadBatch(state.currentBatchIdx, 0);
     }
 
@@ -2706,14 +3273,164 @@
       }
     }
 
-    function saveBatchMastery(batchIdx, data) {
-      const key = (state.activeChapterFilter || 'all') + '_batch_' + batchIdx;
-      state.batchMastery[key] = {
-        ...data,
-        updatedAt: Date.now()
-      };
-      localStorage.setItem('mln111_batch_mastery', JSON.stringify(state.batchMastery));
-      updateBatchDropdown();
+    // BATCH SUMMARY MODAL IMPLEMENTATION
+    function showBatchSummaryModal() {
+      const modal = document.getElementById('batch-summary-modal');
+      if (!modal) return;
+      closeBatchModals();
+
+      const totalBatches = Math.ceil(state.quizList.length / state.batchSize) || 1;
+      const bNum = state.currentBatchIdx + 1;
+      const startNum = state.currentBatchIdx * state.batchSize + 1;
+      const endNum = Math.min((state.currentBatchIdx + 1) * state.batchSize, state.quizList.length);
+
+      const titleEl = document.getElementById('batch-summary-title');
+      const badgeEl = document.getElementById('batch-summary-badge');
+      const statsBar = document.getElementById('batch-summary-stats-bar');
+      const listEl = document.getElementById('batch-summary-list');
+
+      let correctCount = 0;
+      let fixedCount = 0;
+      let wrongCount = 0;
+
+      state.batchQuestions.forEach(q => {
+        const s = state.batchQuestionStates[q.id];
+        if (s === 'correct') correctCount++;
+        else if (s === 'fixed') fixedCount++;
+        else if (s === 'wrong') wrongCount++;
+      });
+
+      const totalQ = state.batchQuestions.length;
+      const isPerfect = (correctCount === totalQ && totalQ > 0);
+      const isCleared = ((correctCount + fixedCount) === totalQ && totalQ > 0);
+
+      if (titleEl) {
+        titleEl.innerText = `Tổng Hợp Kiến Thức • Batch ${bNum}/${totalBatches} (Câu ${startNum} - ${endNum})`;
+      }
+
+      if (badgeEl) {
+        if (isPerfect) {
+          badgeEl.className = 'summary-header-badge badge-perfect';
+          badgeEl.innerText = '🏆 HOÀN HẢO 10/10 • ĐÚNG TRỌN VẸN VÒNG 1';
+        } else if (isCleared) {
+          badgeEl.className = 'summary-header-badge badge-cleared';
+          badgeEl.innerText = '🎉 ĐÃ CHINH PHỤC 10/10 • HOÀN THÀNH SỬA SAI';
+        } else {
+          badgeEl.className = 'summary-header-badge';
+          badgeEl.innerText = '📋 BẢNG TỔNG HỢP KIẾN THỨC BATCH';
+        }
+      }
+
+      if (statsBar) {
+        statsBar.innerHTML = `
+          <span class="stat-tag"><strong>Tổng số câu:</strong> ${totalQ}</span>
+          <span class="stat-tag" style="color: var(--success);"><strong>Đúng vòng 1:</strong> ${correctCount}/${totalQ}</span>
+          ${fixedCount > 0 ? `<span class="stat-tag" style="color: #8b5cf6;"><strong>Đã sửa đúng:</strong> ${fixedCount}</span>` : ''}
+          ${wrongCount > 0 ? `<span class="stat-tag" style="color: var(--error);"><strong>Chưa khắc phục:</strong> ${wrongCount}</span>` : ''}
+          <span class="stat-tag"><strong>Độ làm chủ:</strong> ${Math.round(((correctCount + fixedCount) / (totalQ || 1)) * 100)}%</span>
+        `;
+      }
+
+      // Render all question cards
+      listEl.innerHTML = state.batchQuestions.map((q, idx) => {
+        const qNum = idx + 1;
+        const qState = state.batchQuestionStates[q.id] || 'pending';
+        const correctKeys = getQuestionCorrectKeys(q);
+        const isMulti = correctKeys.length > 1;
+
+        let statusTag = '';
+        if (qState === 'correct') {
+          statusTag = '<span class="summary-status-tag tag-correct">✓ Đúng vòng 1</span>';
+        } else if (qState === 'fixed') {
+          statusTag = '<span class="summary-status-tag tag-fixed">✓ Đã sửa đúng</span>';
+        } else if (qState === 'wrong') {
+          statusTag = '<span class="summary-status-tag tag-wrong">⚠️ Cần ôn lại</span>';
+        } else {
+          statusTag = '<span class="summary-status-tag" style="background: var(--surface-sub); color: var(--text-muted);">Chưa làm</span>';
+        }
+
+        const multiTag = isMulti ? `<span class="summary-status-tag tag-multi">Nhiều đáp án (${correctKeys.length})</span>` : '';
+        const chapterShort = q.chapter.split(':')[0];
+
+        // Format options
+        const optKeys = Object.keys(q.options || {}).sort();
+        const optsHtml = optKeys.map(k => {
+          const isRight = q.ans_key.includes(k);
+          const optText = escapeHtml(q.options[k]);
+          if (isRight) {
+            return `<div class="summary-opt-item correct-opt" style="padding: 0.35rem 0.6rem; border-radius: var(--radius-sm); margin: 0.2rem 0; background: rgba(16, 185, 129, 0.12); color: var(--text); border: 1px solid rgba(16, 185, 129, 0.3); font-weight: 600;"><span style="color: var(--success); font-weight: 800; margin-right: 0.35rem;">✓ ${k}.</span> ${optText}</div>`;
+          } else {
+            return `<div class="summary-opt-item" style="padding: 0.25rem 0.6rem; margin: 0.15rem 0; color: var(--text-muted); font-size: 0.88rem;"><span style="font-weight: 700; margin-right: 0.35rem;">${k}.</span> ${optText}</div>`;
+          }
+        }).join('');
+
+        let extraHtml = '';
+        if (q.ans_extra) {
+          extraHtml = `<div class="summary-card-extra">💡 <strong>Ghi chú:</strong> ${escapeHtml(q.ans_extra)}</div>`;
+        }
+
+        return `
+          <div class="batch-summary-card">
+            <div class="summary-card-header">
+              <div class="summary-card-meta">
+                <span class="summary-q-num">Câu ${qNum}/10</span>
+                <span class="tag tag-ch1" style="font-size: 0.72rem;">${chapterShort}</span>
+                <span style="font-size: 0.76rem; color: var(--text-muted); font-family: var(--font-mono);">#${q.id}</span>
+              </div>
+              <div class="summary-card-tags">
+                ${multiTag}
+                ${statusTag}
+              </div>
+            </div>
+            <div class="summary-card-question">${escapeHtml(q.question)}</div>
+            <div class="summary-card-options" style="margin-bottom: 0.6rem;">
+              ${optsHtml}
+            </div>
+            <div class="summary-card-ans-box">
+              <div class="summary-ans-heading">👉 ĐÁP ÁN ĐÚNG</div>
+              <div class="summary-ans-single">${escapeHtml(q.ans_text)}</div>
+            </div>
+            ${extraHtml}
+          </div>
+        `;
+      }).join('');
+
+      // Next batch button text
+      const nextBtn = document.getElementById('btn-summary-next-batch');
+      if (nextBtn) {
+        if (state.currentBatchIdx >= totalBatches - 1) {
+          nextBtn.innerHTML = 'Đã hết Batch (Quay về Batch 1) 🏁';
+        } else {
+          nextBtn.innerHTML = `Sang Batch ${bNum + 1}/${totalBatches} ➡ <span class="keyboard-hint">Enter / →</span>`;
+        }
+      }
+
+      modal.classList.add('show');
+    }
+
+    function showCurrentBatchSummaryModal() {
+      showBatchSummaryModal();
+    }
+
+    function closeBatchSummaryModal() {
+      const modal = document.getElementById('batch-summary-modal');
+      if (modal) modal.classList.remove('show');
+    }
+
+    function closeBatchSummaryModalOnBackdrop(e) {
+      if (e.target.classList.contains('modal-backdrop')) {
+        closeBatchSummaryModal();
+      }
+    }
+
+    function confirmNextBatchFromSummary() {
+      closeBatchSummaryModal();
+      const totalBatches = Math.ceil(state.quizList.length / state.batchSize) || 1;
+      if (state.currentBatchIdx >= totalBatches - 1) {
+        loadBatch(0, 0);
+      } else {
+        loadBatch(state.currentBatchIdx + 1, 0);
+      }
     }
 
     function setChapterFilter(chapter, btn) {
@@ -2779,6 +3496,7 @@
     function renderCurrentQuiz() {
       let q = null;
       let userRecord = null;
+      let isReviewMode = false;
 
       if (state.quizSubMode === 'batch') {
         if (state.batchQuestions.length === 0) {
@@ -2786,12 +3504,26 @@
           return;
         }
 
+        q = state.batchQuestions[state.batchInIdx];
+        if (!q) return;
+
+        const qStatus = state.batchQuestionStates[q.id];
         if (state.batchPhase === 'round1') {
-          q = state.batchQuestions[state.batchInIdx];
-          userRecord = q ? state.batchUserRecords[q.id] : null;
+          userRecord = state.batchUserRecords[q.id];
+          isReviewMode = false;
         } else {
-          q = state.batchWrongQueue[state.batchRetryInIdx];
-          userRecord = q ? state.batchRetryRecords[q.id] : null;
+          // Retry phase:
+          if (qStatus === 'correct') {
+            userRecord = state.batchUserRecords[q.id] || { correct: true };
+            isReviewMode = true;
+          } else if (qStatus === 'fixed') {
+            userRecord = state.batchRetryRecords[q.id] || { correct: true };
+            isReviewMode = true;
+          } else {
+            // qStatus === 'wrong' (needs re-attempt)
+            userRecord = state.batchRetryRecords[q.id];
+            isReviewMode = false;
+          }
         }
       } else {
         q = state.quizList[state.currentQuizIndex];
@@ -2799,6 +3531,10 @@
       }
 
       if (!q) return;
+
+      const correctKeys = getQuestionCorrectKeys(q);
+      const isMulti = correctKeys.length > 1;
+      const pickedCorrect = state.multiChoiceSelections[q.id] || [];
 
       // Update question header
       const chTag = document.getElementById('q-chapter-tag');
@@ -2810,7 +3546,7 @@
         if (state.batchPhase === 'round1') {
           document.getElementById('q-number-text').innerText = `Batch ${state.currentBatchIdx + 1}/${totalBatches} • Câu ${state.batchInIdx + 1}/${state.batchQuestions.length} (#${q.id})`;
         } else {
-          document.getElementById('q-number-text').innerText = `🔄 Vòng Sửa Sai • Câu ${state.batchRetryInIdx + 1}/${state.batchWrongQueue.length} (#${q.id})`;
+          document.getElementById('q-number-text').innerText = `🔄 Vòng Sửa Sai • Câu ${state.batchInIdx + 1}/${state.batchQuestions.length} (#${q.id})`;
         }
       } else {
         document.getElementById('q-number-text').innerText = `Câu ${state.currentQuizIndex + 1} / ${state.quizList.length} (ID: ${q.id})`;
@@ -2818,6 +3554,43 @@
 
       const starBtn = document.getElementById('q-star-btn');
       starBtn.classList.toggle('starred', state.starredIds.has(q.id));
+
+      // Retry review badge in retry phase
+      const reviewBadge = document.getElementById('batch-q-review-badge');
+      if (reviewBadge) {
+        if (state.quizSubMode === 'batch' && state.batchPhase === 'retry') {
+          const qStatus = state.batchQuestionStates[q.id];
+          reviewBadge.style.display = 'inline-flex';
+          if (qStatus === 'correct') {
+            reviewBadge.className = 'batch-question-review-badge correct-badge';
+            reviewBadge.innerHTML = '<span>✓</span> <span>ĐÃ LÀM ĐÚNG VÒNG 1 (Chế độ xem lại)</span>';
+          } else if (qStatus === 'fixed') {
+            reviewBadge.className = 'batch-question-review-badge fixed-badge';
+            reviewBadge.innerHTML = '<span>✓</span> <span>ĐÃ KHẮC PHỤC THÀNH CÔNG (Đã sửa đúng)</span>';
+          } else {
+            reviewBadge.className = 'batch-question-review-badge wrong-badge';
+            reviewBadge.innerHTML = '<span>⚠️</span> <span>CÂU LÀM SAI CẦN LÀM LẠI • Hãy chọn lại đáp án đúng!</span>';
+          }
+        } else {
+          reviewBadge.style.display = 'none';
+        }
+      }
+
+      // Multi-choice indicator badge
+      const multiIndicator = document.getElementById('multi-choice-indicator');
+      if (multiIndicator) {
+        if (isMulti) {
+          multiIndicator.style.display = 'flex';
+          const needed = correctKeys.length;
+          const currentCount = pickedCorrect.length;
+          multiIndicator.innerHTML = `
+            <div class="multi-indicator-title">📌 CÂU HỎI NHIỀU ĐÁP ÁN: Cần chọn đủ ${needed} đáp án đúng</div>
+            <div class="multi-indicator-status">Đã chọn: <strong>${currentCount} / ${needed}</strong> đáp án</div>
+          `;
+        } else {
+          multiIndicator.style.display = 'none';
+        }
+      }
 
       document.getElementById('q-text').innerText = q.question;
 
@@ -2843,13 +3616,30 @@
         btn.appendChild(badge);
         btn.appendChild(text);
 
-        // If already answered, colorize
-        if (userRecord) {
+        // Checkbox indicator for multi-choice
+        if (isMulti) {
+          const isPicked = pickedCorrect.includes(letter);
+          const cb = document.createElement('span');
+          cb.className = 'option-checkbox-indicator';
+          cb.innerText = isPicked ? '☑' : '☐';
+          btn.appendChild(cb);
+
+          if (isPicked) {
+            btn.classList.add('multi-picked-correct');
+            btn.disabled = true;
+          }
+        }
+
+        // If in review mode or already finalized userRecord
+        if (isReviewMode || userRecord) {
           btn.disabled = true;
           if (q.ans_key.includes(letter)) {
             btn.classList.add('reveal-correct');
           }
-          if (userRecord.chosen === letter && !q.ans_key.includes(letter)) {
+          if (userRecord && userRecord.chosen === letter && !q.ans_key.includes(letter)) {
+            btn.classList.add('selected-wrong');
+          }
+          if (userRecord && userRecord.wrongKey === letter) {
             btn.classList.add('selected-wrong');
           }
         }
@@ -2860,10 +3650,10 @@
       // Explanation box
       const expBox = document.getElementById('q-explanation');
       const expText = document.getElementById('q-explanation-text');
-      if (userRecord && (q.ans_extra || q.ans_text)) {
+      if ((isReviewMode || userRecord) && (q.ans_extra || q.ans_text)) {
         expBox.style.display = 'block';
-        let htmlContent = `<strong>Đáp án đúng:</strong> ${q.ans_text}`;
-        if (q.ans_extra) htmlContent += `<br><span style="color: var(--text-muted);">${q.ans_extra}</span>`;
+        let htmlContent = `<strong>Đáp án đúng:</strong> ${escapeHtml(q.ans_text)}`;
+        if (q.ans_extra) htmlContent += `<br><span style="color: var(--text-muted);">${escapeHtml(q.ans_extra)}</span>`;
         expText.innerHTML = htmlContent;
       } else {
         expBox.style.display = 'none';
@@ -2874,19 +3664,26 @@
       const btnNext = document.getElementById('btn-next');
 
       if (state.quizSubMode === 'batch') {
+        btnPrev.disabled = (state.batchInIdx === 0);
+        btnNext.disabled = false;
+
         if (state.batchPhase === 'round1') {
-          btnPrev.disabled = (state.batchInIdx === 0);
-          btnNext.disabled = false;
           if (state.batchInIdx === state.batchQuestions.length - 1) {
             btnNext.innerHTML = 'Kết thúc Batch 🏁';
           } else {
-            btnNext.innerHTML = 'Câu tiếp ➡ <span class="keyboard-hint">Space</span>';
+            btnNext.innerHTML = 'Câu tiếp ➡ <span class="keyboard-hint">→ / Space</span>';
           }
         } else {
-          btnPrev.disabled = (state.batchRetryInIdx === 0);
-          btnNext.disabled = (state.batchRetryInIdx === state.batchWrongQueue.length - 1);
-          btnNext.innerHTML = 'Câu sai tiếp ➡';
+          // Retry phase
+          if (state.batchInIdx === state.batchQuestions.length - 1) {
+            const hasWrong = state.batchQuestions.some(item => state.batchQuestionStates[item.id] === 'wrong');
+            btnNext.innerHTML = hasWrong ? 'Sửa câu sai tiếp 🔄' : 'Tổng kết Batch 🏁';
+          } else {
+            btnNext.innerHTML = 'Câu tiếp ➡ <span class="keyboard-hint">→ / Space</span>';
+          }
         }
+
+        btnPrev.innerHTML = '⬅ Câu trước <span class="keyboard-hint">←</span>';
 
         // Update batch status pill
         const phasePill = document.getElementById('batch-phase-pill');
@@ -2897,9 +3694,10 @@
             phasePill.innerText = '🎯 Vòng 1: Làm 10 câu';
             itemCount.innerText = `Câu ${state.batchInIdx + 1}/${state.batchQuestions.length} trong Batch`;
           } else {
+            const wrongCount = state.batchQuestions.filter(item => state.batchQuestionStates[item.id] === 'wrong').length;
             phasePill.className = 'phase-pill phase-retry';
-            phasePill.innerText = '🔄 Vòng Sửa Sai: Phục thù';
-            itemCount.innerText = `Còn ${state.batchWrongQueue.length} câu cần sửa`;
+            phasePill.innerText = '🔄 Vòng Sửa Sai: Xem & Làm lại';
+            itemCount.innerText = `Câu ${state.batchInIdx + 1}/${state.batchQuestions.length} (Còn ${wrongCount} câu sai)`;
           }
         }
 
@@ -2907,7 +3705,8 @@
       } else {
         btnPrev.disabled = (state.currentQuizIndex === 0);
         btnNext.disabled = (state.currentQuizIndex === state.quizList.length - 1);
-        btnNext.innerHTML = 'Câu tiếp ➡ <span class="keyboard-hint">Space / Alt+→</span>';
+        btnPrev.innerHTML = '⬅ Câu trước <span class="keyboard-hint">←</span>';
+        btnNext.innerHTML = 'Câu tiếp ➡ <span class="keyboard-hint">→ / Space</span>';
       }
 
       updateQuizStats();
@@ -2920,8 +3719,56 @@
       }
 
       const q = state.quizList[state.currentQuizIndex];
+      if (!q) return;
       if (state.answeredRecords[q.id]) return;
 
+      const correctKeys = getQuestionCorrectKeys(q);
+      const isMulti = correctKeys.length > 1;
+
+      if (!state.multiChoiceSelections[q.id]) {
+        state.multiChoiceSelections[q.id] = [];
+      }
+      const picked = state.multiChoiceSelections[q.id];
+
+      if (isMulti) {
+        if (picked.includes(letter)) return;
+
+        if (correctKeys.includes(letter)) {
+          picked.push(letter);
+          playSoftTick();
+
+          if (picked.length === correctKeys.length) {
+            playBeep(true);
+            state.streak++;
+            state.wrongIds.delete(q.id);
+            state.answeredRecords[q.id] = { chosen: picked.sort().join(''), correct: true };
+            localStorage.setItem('mln111_wrong', JSON.stringify([...state.wrongIds]));
+            updateCounters();
+            renderCurrentQuiz();
+
+            if (state.currentQuizIndex < state.quizList.length - 1) {
+              setTimeout(() => {
+                if (state.currentQuizIndex < state.quizList.length - 1) {
+                  navQuiz(1);
+                }
+              }, 700);
+            }
+          } else {
+            renderCurrentQuiz();
+          }
+        } else {
+          playBeep(false);
+          state.streak = 0;
+          state.wrongIds.add(q.id);
+          state.answeredRecords[q.id] = { chosen: letter, correct: false, wrongKey: letter };
+          localStorage.setItem('mln111_wrong', JSON.stringify([...state.wrongIds]));
+          updateCounters();
+          renderCurrentQuiz();
+        }
+        return;
+      }
+
+      // Single choice in free mode
       const isCorrect = q.ans_key.includes(letter);
       playBeep(isCorrect);
 
@@ -2954,25 +3801,32 @@
           if (state.batchPhase === 'round1') {
             advanceBatchRound1();
           } else if (state.batchPhase === 'retry') {
-            if (state.batchRetryInIdx < state.batchWrongQueue.length - 1) {
-              state.batchRetryInIdx++;
-              state.batchStepAnswered = false;
+            if (state.batchInIdx < state.batchQuestions.length - 1) {
+              state.batchInIdx++;
+              const q = state.batchQuestions[state.batchInIdx];
+              const s = state.batchQuestionStates[q.id];
+              state.batchStepAnswered = (s === 'correct' || s === 'fixed');
               renderCurrentQuiz();
+            } else {
+              const stillWrong = state.batchQuestions.filter(q => state.batchQuestionStates[q.id] === 'wrong');
+              if (stillWrong.length === 0) {
+                finishBatchAllCleared();
+              } else {
+                jumpToNextWrongInBatch();
+              }
             }
           }
         } else if (step === -1) {
-          if (state.batchPhase === 'round1') {
-            if (state.batchInIdx > 0) {
-              state.batchInIdx--;
-              state.batchStepAnswered = !!state.batchUserRecords[state.batchQuestions[state.batchInIdx].id];
-              renderCurrentQuiz();
+          if (state.batchInIdx > 0) {
+            state.batchInIdx--;
+            const q = state.batchQuestions[state.batchInIdx];
+            const s = state.batchQuestionStates[q.id];
+            if (state.batchPhase === 'round1') {
+              state.batchStepAnswered = !!state.batchUserRecords[q.id];
+            } else {
+              state.batchStepAnswered = (s === 'correct' || s === 'fixed');
             }
-          } else if (state.batchPhase === 'retry') {
-            if (state.batchRetryInIdx > 0) {
-              state.batchRetryInIdx--;
-              state.batchStepAnswered = !!state.batchRetryRecords[state.batchWrongQueue[state.batchRetryInIdx].id];
-              renderCurrentQuiz();
-            }
+            renderCurrentQuiz();
           }
         }
         return;
@@ -3405,16 +4259,40 @@
         }
       }
 
+      // If batch summary modal is active, Enter or ArrowRight advances, Escape closes
+      const summaryModal = document.getElementById('batch-summary-modal');
+      if (summaryModal && summaryModal.classList.contains('show')) {
+        if (e.key === 'Enter' || e.key === 'ArrowRight') {
+          e.preventDefault();
+          confirmNextBatchFromSummary();
+          return;
+        } else if (e.key === 'Escape') {
+          e.preventDefault();
+          closeBatchSummaryModal();
+          return;
+        }
+      }
+
+      // If help modal is active, Escape closes
+      const helpModal = document.getElementById('help-modal');
+      if (helpModal && helpModal.classList.contains('show')) {
+        if (e.key === 'Escape') {
+          e.preventDefault();
+          closeHelpModal();
+          return;
+        }
+      }
+
       // Ignore if typing in input
-      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT') return;
 
       if (state.currentView === 'quiz') {
-        // Quick batch navigation via Alt+PageUp / Alt+PageDown
-        if (e.altKey && e.key === 'PageUp') {
+        // Quick batch navigation via PageUp / PageDown
+        if (e.key === 'PageUp') {
           e.preventDefault();
           navBatch(-1);
           return;
-        } else if (e.altKey && e.key === 'PageDown') {
+        } else if (e.key === 'PageDown') {
           e.preventDefault();
           navBatch(1);
           return;
@@ -3426,7 +4304,7 @@
         } else if (['1', '2', '3', '4'].includes(e.key)) {
           const map = { '1': 'A', '2': 'B', '3': 'C', '4': 'D' };
           onSelectQuizOption(map[e.key]);
-        } else if (e.key === ' ' || (e.altKey && e.key === 'ArrowRight')) {
+        } else if (e.key === 'ArrowRight' || e.key === ' ') {
           e.preventDefault();
           const skipNotice = document.getElementById('batch-skip-notice');
           if (skipNotice && skipNotice.style.display === 'flex') {
@@ -3434,7 +4312,7 @@
           } else {
             navQuiz(1);
           }
-        } else if (e.altKey && e.key === 'ArrowLeft') {
+        } else if (e.key === 'ArrowLeft') {
           e.preventDefault();
           navQuiz(-1);
         } else if (key === 'S') {
