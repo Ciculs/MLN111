@@ -1,0 +1,1864 @@
+[
+  {
+    "id": 1,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Thời kỳ cổ đại đến cuối thế kỷ 17, kinh tế chính trị đã xuất hiện trường phái:",
+    "options": {
+      "A": "Trường phái trọng thương.",
+      "B": "Trường phái trọng nông.",
+      "C": "Kinh tế chính trị tư sản Anh.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Ba nhận định trên đúng.",
+    "ans_extra": ""
+  },
+  {
+    "id": 2,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Trường phái trọng thương, đối tượng nghiên cứu là:",
+    "options": {
+      "A": "Lưu thông.",
+      "B": "Hiện tượng bề ngoài bằng kinh nghiệm.",
+      "C": "Lợi nhuận.",
+      "D": "Sản xuất."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Lưu thông.",
+    "ans_extra": ""
+  },
+  {
+    "id": 3,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Trường phái trọng thương là chú trọng đến lĩnh vực:",
+    "options": {
+      "A": "Ngoại thương.",
+      "B": "Nông nghiệp.",
+      "C": "Sản xuất.",
+      "D": "Tiêu dùng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Ngoại thương.",
+    "ans_extra": ""
+  },
+  {
+    "id": 4,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Trường phái trọng nông, đối tựng nghiên cứu là ở lĩnh vực:",
+    "options": {
+      "A": "Nông nghiệp.",
+      "B": "Ngoại thương.",
+      "C": "Sản xuất.",
+      "D": "Tiêu dùng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Nông nghiệp.",
+    "ans_extra": ""
+  },
+  {
+    "id": 5,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Chỉ có của cải dân cư ở nông thôn mới đẻ ra của cải quốc gia, nông dân nghèo thì xứ sở nghèo. Câu nói trên là của?",
+    "options": {
+      "A": "F.Quesney.",
+      "B": "T. Mun.",
+      "C": "A. Serra.",
+      "D": "D.Ricardo."
+    },
+    "ans_key": "A",
+    "ans_text": "A. F.Quesney.",
+    "ans_extra": ""
+  },
+  {
+    "id": 6,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Chủ nghĩa trọng nông hình thành và phát triển từ:",
+    "options": {
+      "A": "Nước Pháp.",
+      "B": "Nước Anh.",
+      "C": "Nước Ý.",
+      "D": "Nước Đức."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Nước Pháp.",
+    "ans_extra": ""
+  },
+  {
+    "id": 7,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Trường phái kinh tế chính trị cổ điển Anh với những tư tưởng:",
+    "options": {
+      "A": "W.Petty; A.Xmit và Đ.Ricácđô.",
+      "B": "A.Xmit và Đ.Ricácđô.",
+      "C": "Ph. Hêghen và L.Phobách.",
+      "D": "H.Sanhximông và R. Ôoen."
+    },
+    "ans_key": "A",
+    "ans_text": "A. W.Petty; A.Xmit và Đ.Ricácđô.",
+    "ans_extra": ""
+  },
+  {
+    "id": 8,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Thuyết bàn tay vô hình là quan điểm của?",
+    "options": {
+      "A": "A.Smith.",
+      "B": "W.Petty.",
+      "C": "Đ. Ricácđô.",
+      "D": "F. Quesney."
+    },
+    "ans_key": "A",
+    "ans_text": "A. A.Smith.",
+    "ans_extra": ""
+  },
+  {
+    "id": 9,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Kinh tế chính trị Mác - Lênin thì C.Mác và V.I.Lênin đã ảnh hưởng của trường phái kinh tế nào?",
+    "options": {
+      "A": "Kinh tế tư sản cổ điển Anh.",
+      "B": "Chủ nghĩa trọng thương.",
+      "C": "Chủ nghĩa trọng nông.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Kinh tế tư sản cổ điển Anh.",
+    "ans_extra": ""
+  },
+  {
+    "id": 10,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Cái gì quyết định sản xuất vật chất?",
+    "options": {
+      "A": "Phương thức sản xuất.",
+      "B": "Phân phối.",
+      "C": "Trao đổi.",
+      "D": "Ba nhận định trên."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Phương thức sản xuất.",
+    "ans_extra": ""
+  },
+  {
+    "id": 11,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Đối tượng nghiên cứu của kinh tế chính trị học MLN là:",
+    "options": {
+      "A": "Nghiên cứu những quy luật chung nhất của tự nhiên, xã hội và tư duy.",
+      "B": "Nghiên cứu các hiện tượng quá trình kinh tế, các quy luật kinh tế qua các giai đoạn phát triển của xã hội loại người.",
+      "C": "Nghiên cứu quy luật và tính quy luật chính trị xã hội trong đời sống xã hội con người.",
+      "D": "Ba nhận định trên đúng"
+    },
+    "ans_key": "B",
+    "ans_text": "B. Nghiên cứu các hiện tượng quá trình kinh tế, các quy luật kinh tế qua các giai đoạn phát triển của xã hội loại người.",
+    "ans_extra": ""
+  },
+  {
+    "id": 12,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Chủ nghĩa trọng thương được ghi nhận là hệ thống lý luận kinh tế chính trị bước đầu nghiên cứu về vấn đề gì?",
+    "options": {
+      "A": "Nền sản xuất tư bản chủ nghĩa",
+      "B": "Nền sản xuất phong kiến",
+      "C": "Nền sản xuất xã hội chủ nghĩa",
+      "D": "Nền sản xuất nguyên thủy"
+    },
+    "ans_key": "A",
+    "ans_text": "A. Nền sản xuất tư bản chủ nghĩa",
+    "ans_extra": ""
+  },
+  {
+    "id": 13,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Kinh tế chính trị cổ điển Anh được hình thành và phát triển vào khoảng thời gian nào?",
+    "options": {
+      "A": "Cuối thế kỷ XVIII đến nửa đầu thế kỷ XIX",
+      "B": "Giữa thế kỷ XIX đến đầu thế kỷ XX",
+      "C": "Cuối thế kỷ XIX đến giữa thế kỷ XX",
+      "D": "Giữa thế kỷ XX đến đầu thế kỷ XXI"
+    },
+    "ans_key": "A",
+    "ans_text": "A. Cuối thế kỷ XVIII đến nửa đầu thế kỷ XIX",
+    "ans_extra": ""
+  },
+  {
+    "id": 14,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Ai là người tiếp tục kế thừa, bổ sung, phát triển lý luận kinh tế chính trị theo phương pháp luận của C.Mác?",
+    "options": {
+      "A": "D.Ricardo",
+      "B": "Chủ tịch Hồ Chí Minh",
+      "C": "Ph.Ăngghen",
+      "D": "V.I.Lênin"
+    },
+    "ans_key": "D",
+    "ans_text": "D. V.I.Lênin",
+    "ans_extra": ""
+  },
+  {
+    "id": 15,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Quan hệ của sản xuất và trao đổi chịu sự tác động như thế nào bởi trình độ của lực lượng sản xuất và kiến trúc thượng tầng tương ứng?",
+    "options": {
+      "A": "Tác động theo khuynh hướng phát triển",
+      "B": "Tác động biện chứng",
+      "C": "Tác động theo đường xoáy ốc",
+      "D": "Tác động một chiều"
+    },
+    "ans_key": "B",
+    "ans_text": "B. Tác động biện chứng",
+    "ans_extra": ""
+  },
+  {
+    "id": 16,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Kinh tế chính trị Mác - Lênin có mấy chức năng?",
+    "options": {
+      "A": "2 chức năng",
+      "B": "3 chức năng",
+      "C": "4 chức năng",
+      "D": "5 chức năng"
+    },
+    "ans_key": "C",
+    "ans_text": "C. 4 chức năng",
+    "ans_extra": ""
+  },
+  {
+    "id": 17,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Một trong 4 chức năng của kinh tế chính trị Mác - Lênin?",
+    "options": {
+      "A": "Chức năng tư tưởng",
+      "B": "Chức năng quan sát",
+      "C": "Chức năng lãnh đạo",
+      "D": "Chức năng điều hòa"
+    },
+    "ans_key": "A",
+    "ans_text": "A. Chức năng tư tưởng",
+    "ans_extra": ""
+  },
+  {
+    "id": 18,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Một trong 4 chức năng của kinh tế chính trị Mác - Lênin?",
+    "options": {
+      "A": "Chức năng phân phối",
+      "B": "Chức năng tư duy",
+      "C": "Chức năng phương pháp luận",
+      "D": "Chức năng kinh tế"
+    },
+    "ans_key": "C",
+    "ans_text": "C. Chức năng phương pháp luận",
+    "ans_extra": ""
+  },
+  {
+    "id": 19,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Chức năng nào của kinh tế chính trị Mác - Lênin đề cập đến việc góp phần xây dựng nền tư tưởng mới cho những người lao động tiến bộ?",
+    "options": {
+      "A": "Chức năng vận động",
+      "B": "Chức năng lý luận",
+      "C": "Chức năng thực tế",
+      "D": "Chức năng tư tưởng"
+    },
+    "ans_key": "D",
+    "ans_text": "D. Chức năng tư tưởng",
+    "ans_extra": ""
+  },
+  {
+    "id": 20,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Đối với sinh viên, chức năng nào của kinh tế chính trị Mác - Lênin là cơ sở khoa học lý luận để nhận diện và định vị vai trò, trách nhiệm sáng tạo của mình?",
+    "options": {
+      "A": "Chức năng vận động",
+      "B": "Chức năng lý luận",
+      "C": "Chức năng thực tiễn",
+      "D": "Chức năng lý tưởng"
+    },
+    "ans_key": "C",
+    "ans_text": "C. Chức năng thực tiễn",
+    "ans_extra": ""
+  },
+  {
+    "id": 21,
+    "chapter": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+    "question": "Chức năng nào của kinh tế chính trị Mác - Lênin cung cấp phạm trù kinh tế cơ bản được khái quát, phản ánh từ hiện tượng kinh tế mang tính biểu hiện trên bề mặt xã hội?",
+    "options": {
+      "A": "Chức năng lao động",
+      "B": "Chức năng nhận thức",
+      "C": "Chức năng quan sát",
+      "D": "Chức năng hiểu ý đồng đội"
+    },
+    "ans_key": "B",
+    "ans_text": "B. Chức năng nhận thức",
+    "ans_extra": ""
+  },
+  {
+    "id": 22,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Lịch sử phát triển của nền sản xuất xã hội trải qua 2 kiểu tổ chức kinh tế đó là?",
+    "options": {
+      "A": "Sản xuất tự cấp tự túc và sản xuất hàng hóa.",
+      "B": "Sản xuất giá trị thặng dư và sản xuất hàng hóa.",
+      "C": "Sản xuất tự do và mua bán trao đổi.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Sản xuất tự cấp tự túc và sản xuất hàng hóa.",
+    "ans_extra": ""
+  },
+  {
+    "id": 23,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Sản xuất tự cung tự cấp là:",
+    "options": {
+      "A": "Tiêu dùng cho chính người sản xuất ra sản phẩm đó.",
+      "B": "Tiêu dùng cho người khác.",
+      "C": "Sản xuất ra để bán.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Tiêu dùng cho chính người sản xuất ra sản phẩm đó.",
+    "ans_extra": ""
+  },
+  {
+    "id": 24,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Sản xuất hàng hóa là gì?",
+    "options": {
+      "A": "Là kiểu tổ chức kinh tế ở đó sản phẩm được sản xuất ra nhằm đáp ứng nhu cầu tiêu dùng của người khác, thông qua mua bán, trao đổi trên thị trường.",
+      "B": "Là kiểu tổ chức ở đó sản phẩm được sản xuất ra nhằm đáp ứng tiêu dùng của người khác, thông qua mua bán, trao đổi trên thị trường.",
+      "C": "Là kiểu tổ chức kinh tế ở đó sản phẩm được sản xuất ra nhằm đáp ứng nhu cầu của người khác qua mua rẻ bán đắt trên thị trường.",
+      "D": "Là kiểu tổ chức kinh tế ở đó sản phẩm được sản xuất ra nhằm đáp ứng nhu cầu tiêu dùng của người khác thông qua mua rẻ bán đắt trên thị trường."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Là kiểu tổ chức kinh tế ở đó sản phẩm được sản xuất ra nhằm đáp ứng nhu cầu tiêu dùng của người khác, thông qua mua bán, trao đổi trên thị trường.",
+    "ans_extra": ""
+  },
+  {
+    "id": 25,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Giá trị của hàng hóa được tạo từ đâu?",
+    "options": {
+      "A": "Từ phân phối.",
+      "B": "Từ trao đổi.",
+      "C": "Từ sản xuất.",
+      "D": "Từ cạnh tranh."
+    },
+    "ans_key": "B",
+    "ans_text": "B. Từ trao đổi.",
+    "ans_extra": ""
+  },
+  {
+    "id": 26,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Sản xuất hàng hóa chỉ có ở nền kinh tế nào (câu đúng nhất)?",
+    "options": {
+      "A": "Nền kinh tế thị trường.",
+      "B": "Nền kinh tế.",
+      "C": "Nền kinh tế tư bản chủ nghĩa.",
+      "D": "Nền kinh tế xã hội chủ nghĩa."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Nền kinh tế thị trường.",
+    "ans_extra": ""
+  },
+  {
+    "id": 27,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Sự tách biệt tương đối về kinh tế của những người sản xuất là do quan hệ nào quyết định?",
+    "options": {
+      "A": "Quan hệ sở hữu khác nhau về TLSX.",
+      "B": "Làm cho người sản xuất độc lập đối lập nhau.",
+      "C": "Nằm trong hệ thống phân công lao động xã hội.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Ba nhận định trên đúng.",
+    "ans_extra": ""
+  },
+  {
+    "id": 28,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Sản xuất hàng hóa ra là để:",
+    "options": {
+      "A": "Trao đổi.",
+      "B": "Để bán.",
+      "C": "Tiêu dùng cho người khác.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Ba nhận định trên đúng.",
+    "ans_extra": ""
+  },
+  {
+    "id": 29,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Sản xuất hàng hóa tồn tại trong xã hội:",
+    "options": {
+      "A": "Xã hội có phân công lao động và sự tách biệt về kinh tế giữa những người sản xuất.",
+      "B": "Chỉ có trong xã hội tư bản và xã hội xã hội chủ nghĩa.",
+      "C": "Trong mọi xã hội.",
+      "D": "Trong xã hội nô lệ, phong kiến và xã hội tư bản chủ nghĩa."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Xã hội có phân công lao động và sự tách biệt về kinh tế giữa những người sản xuất.",
+    "ans_extra": ""
+  },
+  {
+    "id": 30,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Sản xuất hàng hóa sẽ tạo ra?",
+    "options": {
+      "A": "Sự phân hóa giàu nghèo.",
+      "B": "Ô nhiễm môi trường.",
+      "C": "Khủng hoảng kinh tế.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Ba nhận định trên đúng.",
+    "ans_extra": ""
+  },
+  {
+    "id": 31,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Hàng hóa là sản phẩm của ..., có thể thỏa mãn một phần nào đó ... của con người thông qua trao đổi mua bán. Từ còn thiếu là?",
+    "options": {
+      "A": "Lao động sản xuất/nhu cầu.",
+      "B": "Lao động/nhu cầu.",
+      "C": "Sản xuất/nhu cầu.",
+      "D": "Nhu cầu/sở thích."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Lao động sản xuất/nhu cầu.",
+    "ans_extra": ""
+  },
+  {
+    "id": 32,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Hàng hóa ở dạng vật thể nào? (phương án đúng nhất)",
+    "options": {
+      "A": "Hữu hình và vô hình.",
+      "B": "Hữu hình.",
+      "C": "Vô hình.",
+      "D": "Dạng vật chất."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Hữu hình và vô hình.",
+    "ans_extra": ""
+  },
+  {
+    "id": 33,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Theo quan điểm của C.Mác, thuộc tính của hàng hóa là?",
+    "options": {
+      "A": "Giá trị sử dụng và giá trị của hàng hóa.",
+      "B": "Giá trị sử dụng.",
+      "C": "Giá trị của hàng hóa.",
+      "D": "Thương hiệu của hàng hóa."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Giá trị sử dụng và giá trị của hàng hóa.",
+    "ans_extra": ""
+  },
+  {
+    "id": 34,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Giá trị sử dụng của hàng hóa là do?",
+    "options": {
+      "A": "Thuộc tính tự nhiên cấu thành.",
+      "B": "Thuộc tính của nó cấu thành.",
+      "C": "Khoa học kỹ thuật cấu thành.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Thuộc tính tự nhiên cấu thành.",
+    "ans_extra": ""
+  },
+  {
+    "id": 35,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Giá trị sử dụng của hàng hóa là một phạm trù?",
+    "options": {
+      "A": "Vĩnh viễn.",
+      "B": "Lịch sử.",
+      "C": "Xã hội.",
+      "D": "Kinh tế - chính trị."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Vĩnh viễn.",
+    "ans_extra": ""
+  },
+  {
+    "id": 36,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Kinh tế hàng hóa phát triển qua các giai đoạn?",
+    "options": {
+      "A": "Kinh tế hàng hóa giản đơn và kinh tế thị trường.",
+      "B": "Kinh tế hàng hóa và kinh tế thị trường hiện đại.",
+      "C": "Kinh tế thị trường hỗn hợp và kinh tế thị trường tự do.",
+      "D": "Kinh tế hàng hóa và thị trường hỗn hợp."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Kinh tế hàng hóa giản đơn và kinh tế thị trường.",
+    "ans_extra": ""
+  },
+  {
+    "id": 37,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Cặp phạm trù nào dưới đây là phát hiện riêng của C.Mác?",
+    "options": {
+      "A": "Lao động cụ thể và lao động trừu tượng.",
+      "B": "Lao động giản đơn và lao động phức tạp.",
+      "C": "Lao động quá khứ và lao động sống.",
+      "D": "Lao động tư nhân và lao động xã hội."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Lao động cụ thể và lao động trừu tượng.",
+    "ans_extra": ""
+  },
+  {
+    "id": 38,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Lao động cụ thể là gì?",
+    "options": {
+      "A": "Lao động có ích dưới 1 hình thức cụ thể của 1 nghề nhất định.",
+      "B": "Là lao động giản đơn.",
+      "C": "Là lao động chân tay.",
+      "D": "Là lao động giống các lao động khác."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Lao động có ích dưới 1 hình thức cụ thể của 1 nghề nhất định.",
+    "ans_extra": ""
+  },
+  {
+    "id": 39,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Lao động giản đơn là?",
+    "options": {
+      "A": "Là lao động không qua đào tạo huấn luyện.",
+      "B": "Là lao động cụ thể.",
+      "C": "Là lao động chân tay.",
+      "D": "Ba nhận định trên đúng"
+    },
+    "ans_key": "A",
+    "ans_text": "A. Là lao động không qua đào tạo huấn luyện.",
+    "ans_extra": ""
+  },
+  {
+    "id": 40,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Lao động nào là phạm trù vĩnh viễn?",
+    "options": {
+      "A": "Lao động cụ thể.",
+      "B": "Lao động trừu tượng.",
+      "C": "Lao động chân tay.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Lao động cụ thể.",
+    "ans_extra": ""
+  },
+  {
+    "id": 41,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Khi năng suất lao động tăng số lượng sản phẩm sản xuất ra trong một đơn vị thời gian sẽ?",
+    "options": {
+      "A": "Tăng.",
+      "B": "Giảm.",
+      "C": "Không thay đổi.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Tăng.",
+    "ans_extra": ""
+  },
+  {
+    "id": 42,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Khi năng suất lao động tăng thì?",
+    "options": {
+      "A": "Giá trị tạo ra 1 đơn vị thời gian sẽ giảm.",
+      "B": "Giá trị tạo ra 1 đơn vị sản phẩm tăng.",
+      "C": "Giá trị tạo ra 1 sản phẩm không đổi.",
+      "D": "Ba nhận định trên sai."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Giá trị tạo ra 1 đơn vị thời gian sẽ giảm.",
+    "ans_extra": ""
+  },
+  {
+    "id": 43,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Hình thái biểu hiện của giá trị có:",
+    "options": {
+      "A": "4 hình thái.",
+      "B": "3 hình thái.",
+      "C": "2 hình thái.",
+      "D": "5 hình thái."
+    },
+    "ans_key": "A",
+    "ans_text": "A. 4 hình thái.",
+    "ans_extra": ""
+  },
+  {
+    "id": 44,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Bản chất của tiền tệ là?",
+    "options": {
+      "A": "Hàng hóa đặc biệt.",
+      "B": "Kim loại quý.",
+      "C": "Tiền giấy.",
+      "D": "Vàng, kim loại quý."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Hàng hóa đặc biệt.",
+    "ans_extra": ""
+  },
+  {
+    "id": 45,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Tiền tệ có mấy chức năng?",
+    "options": {
+      "A": "5 chức năng.",
+      "B": "4 chức năng.",
+      "C": "2 chức năng.",
+      "D": "3 chức năng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. 5 chức năng.",
+    "ans_extra": ""
+  },
+  {
+    "id": 46,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Chức năng nào dưới đây của tiền tệ đòi hỏi tiền phải là bằng vàng?",
+    "options": {
+      "A": "Là phương tiện cất trữ.",
+      "B": "Là phương tiện thanh toán.",
+      "C": "Là phương tiện lưu thông.",
+      "D": "Là thước đo giá trị."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Là phương tiện cất trữ.",
+    "ans_extra": ""
+  },
+  {
+    "id": 47,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Phương án đúng nhất: Quá trình sản xuất là sự kết hợp của các yếu tổ:",
+    "options": {
+      "A": "Sức lao động với đối tượng lao động và tư liệu lao động.",
+      "B": "Sức lao động với công cụ lao động.",
+      "C": "Lao động với tư liệu lao động.",
+      "D": "Lao động với đối tượng lao động và tư liệu lao động."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Sức lao động với đối tượng lao động và tư liệu lao động.",
+    "ans_extra": ""
+  },
+  {
+    "id": 48,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Tư liệu lao động gồm có:",
+    "options": {
+      "A": "Công cụ lao động.",
+      "B": "Các vật chứa đựng bảo quản.",
+      "C": "Kết cấu hạ tầng sản xuất.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Ba nhận định trên đúng.",
+    "ans_extra": ""
+  },
+  {
+    "id": 49,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Trong tư liệu lao động, bộ phận nào quyết định đến năng suất lao động?",
+    "options": {
+      "A": "Công cụ lao động.",
+      "B": "Nguyên vật liệu cho sản xuất.",
+      "C": "Các vật chưa đụng bảo quản.",
+      "D": "Kết cấu hạ tầng sản xuất."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Công cụ lao động.",
+    "ans_extra": ""
+  },
+  {
+    "id": 50,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Theo C.Mác, sản xuất hàng hóa là kiểu tổ chức hoạt động gì?",
+    "options": {
+      "A": "Kinh tế",
+      "B": "Chính trị",
+      "C": "Xã hội",
+      "D": "Văn hóa"
+    },
+    "ans_key": "A",
+    "ans_text": "A. Kinh tế",
+    "ans_extra": ""
+  },
+  {
+    "id": 51,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Theo C.Mác, những người sản xuất ra sản phẩm nhằm mục đích gì?",
+    "options": {
+      "A": "Chia sẻ miễn phí",
+      "B": "Trao đổi, mua bán",
+      "C": "Bản thân người sản xuất tiêu dùng",
+      "D": "Thể hiện năng lực bản thân"
+    },
+    "ans_key": "B",
+    "ans_text": "B. Trao đổi, mua bán",
+    "ans_extra": ""
+  },
+  {
+    "id": 52,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Sản xuất hàng hóa ra đời cần bao nhiêu điều kiện",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "ans_key": "B",
+    "ans_text": "B. 2",
+    "ans_extra": ""
+  },
+  {
+    "id": 53,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Lựa chọn đáp án đúng: đâu là một trong hai điều kiện để sản xuất hàng hóa ra đời?",
+    "options": {
+      "A": "Phân công lao động xã hội",
+      "B": "Phân chia tài sản",
+      "C": "Tham gia lao động sản xuất",
+      "D": "Có tài sản của bản thân"
+    },
+    "ans_key": "A",
+    "ans_text": "A. Phân công lao động xã hội",
+    "ans_extra": ""
+  },
+  {
+    "id": 54,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Lựa chọn đáp án đúng: đâu là một trong hai điều kiện để sản xuất hàng hóa ra đời?",
+    "options": {
+      "A": "Phân công lao động",
+      "B": "Có của cải",
+      "C": "Sự tách biệt về mặt kinh tế",
+      "D": "Sự tách biệt về mặt kinh tế của các chủ thể sản xuất"
+    },
+    "ans_key": "D",
+    "ans_text": "D. Sự tách biệt về mặt kinh tế của các chủ thể sản xuất",
+    "ans_extra": ""
+  },
+  {
+    "id": 55,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Chọn đáp án đúng nhất: người này muốn tiêu dùng sản phẩm của người khác phải thông qua hoạt động nào sau đây?",
+    "options": {
+      "A": "Trao đổi",
+      "B": "Mua bán",
+      "C": "Trao đổi dưới hình thức hàng hóa",
+      "D": "Tự mình làm ra"
+    },
+    "ans_key": "C",
+    "ans_text": "C. Trao đổi dưới hình thức hàng hóa",
+    "ans_extra": ""
+  },
+  {
+    "id": 56,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Điều kiện nào được xem là điều kiện đủ để nền sản xuất hàng hóa ra đời?",
+    "options": {
+      "A": "Phân công lao động",
+      "B": "Chia của cải cho mọi người",
+      "C": "Người sản xuất có của ăn của để",
+      "D": "Sự tách biệt về mặt kinh tế của các chủ thể sản xuất"
+    },
+    "ans_key": "D",
+    "ans_text": "D. Sự tách biệt về mặt kinh tế của các chủ thể sản xuất",
+    "ans_extra": ""
+  },
+  {
+    "id": 57,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Lựa chọn đáp án đúng: giá trị sử dụng chỉ được thực hiện trong quá trình nào sau đây?",
+    "options": {
+      "A": "Trong quá trình sử dụng hay tiêu dùng",
+      "B": "Trong quá trình sản xuất",
+      "C": "Trong quá trình vận chuyển",
+      "D": "Trong quá trình lao động của người lao động"
+    },
+    "ans_key": "A",
+    "ans_text": "A. Trong quá trình sử dụng hay tiêu dùng",
+    "ans_extra": ""
+  },
+  {
+    "id": 58,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Để nhận biết được thuộc tính giá trị của hàng hóa, cần xét trong mối quan hệ nào sau đây?",
+    "options": {
+      "A": "Sản xuất",
+      "B": "Trao đổi",
+      "C": "Sử dụng",
+      "D": "Lao động"
+    },
+    "ans_key": "B",
+    "ans_text": "B. Trao đổi",
+    "ans_extra": ""
+  },
+  {
+    "id": 59,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Có mấy nhân tố ảnh hưởng đến lượng giá trị hàng hóa?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "ans_key": "A",
+    "ans_text": "A. 2",
+    "ans_extra": ""
+  },
+  {
+    "id": 60,
+    "chapter": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+    "question": "Khi nói đến cường độ lao động là nói đến vấn đề nào dưới đây?",
+    "options": {
+      "A": "Mức độ khẩn trương",
+      "B": "Thời gian lao động gia tăng",
+      "C": "Mức độ khẩn trương, tích cực của hoạt động lao động trong sản xuất",
+      "D": "Tính tích cực trong lao động"
+    },
+    "ans_key": "C",
+    "ans_text": "C. Mức độ khẩn trương, tích cực của hoạt động lao động trong sản xuất",
+    "ans_extra": ""
+  },
+  {
+    "id": 61,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Sản vật cuối cùng lưu thông hàng hóa là?",
+    "options": {
+      "A": "Tiền.",
+      "B": "Trao đổi.",
+      "C": "Giá trị thặng dư.",
+      "D": "Giá trị sử dụng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Tiền.",
+    "ans_extra": ""
+  },
+  {
+    "id": 62,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Công thức lưu thông hàng hóa thông thường là?",
+    "options": {
+      "A": "H - T - H.",
+      "B": "T - H - T.",
+      "C": "T - H - T'.",
+      "D": "H' - T'."
+    },
+    "ans_key": "A",
+    "ans_text": "A. H - T - H.",
+    "ans_extra": ""
+  },
+  {
+    "id": 63,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Công thức lưu thông hàng hóa tư bản là?",
+    "options": {
+      "A": "T - H - T'",
+      "B": "H - T - H.",
+      "C": "T - H - T.",
+      "D": "H - T' - H'."
+    },
+    "ans_key": "A",
+    "ans_text": "A. T - H - T'",
+    "ans_extra": ""
+  },
+  {
+    "id": 64,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Để tiền vừa được tạo ra trong lưu thông, đồng thời vừa không tạo ra trong lưu thông phải có hàng hóa như thế nào?",
+    "options": {
+      "A": "Sức lao động.",
+      "B": "Cơ sở vật chất.",
+      "C": "Khoa học kỹ thuật.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Sức lao động.",
+    "ans_extra": ""
+  },
+  {
+    "id": 65,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Theo quan điểm của C.Mác, sức lao động là?",
+    "options": {
+      "A": "Toàn bộ thể lực, trí lực tồn tại và kinh nghiệm sản xuất của 1 người lao động đem ra vận dụng trong quá trình lao động sản xuất.",
+      "B": "Toàn bộ thể lực và kinh nghiệm sản xuất của 1 người lao động đem ra vận dụng trong quá trình lao động sản xuất.",
+      "C": "Toàn bộ trí lực tồn tại và kinh nghiệm sản xuất của người lao động đem ra vận dụng trong quá trình lao động sản xuất.",
+      "D": "Toàn bộ thể lực, trí lực tồn tại và kinh nghiệm sản xuất của nhiều người lao động đem trong quá trình lao động sản xuất."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Toàn bộ thể lực, trí lực tồn tại và kinh nghiệm sản xuất của 1 người lao động đem ra vận dụng trong quá trình lao động sản xuất.",
+    "ans_extra": ""
+  },
+  {
+    "id": 66,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Hàng hóa sức lao động sẽ tạo ra cái gì trong lưu thông?",
+    "options": {
+      "A": "Giá trị thặng dư.",
+      "B": "Của cải cho xã hội.",
+      "C": "Công ăn việc làm.",
+      "D": "Giá trị lao động."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Giá trị thặng dư.",
+    "ans_extra": ""
+  },
+  {
+    "id": 67,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Có mấy điều kiện để sức lao động trở thành hàng hóa?",
+    "options": {
+      "A": "Có 2 điều kiện.",
+      "B": "Có 3 điều kiện.",
+      "C": "Có 4 điều kiện.",
+      "D": "Có 1 điều kiện."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Có 2 điều kiện.",
+    "ans_extra": ""
+  },
+  {
+    "id": 68,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Chế độ xã hội nào đầu tiên phổ biến sử dụng sức lao động thành hàng hóa?",
+    "options": {
+      "A": "Chủ nghĩa tư bản.",
+      "B": "Xã hội phong kiến.",
+      "C": "Chủ nghĩa xã hội.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Chủ nghĩa tư bản.",
+    "ans_extra": ""
+  },
+  {
+    "id": 69,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Hình thức nào không phải là biểu hiện của giá trị thặng dư?",
+    "options": {
+      "A": "Tiền lương.",
+      "B": "Lợi tức.",
+      "C": "Lợi nhuận.",
+      "D": "Nô lệ."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Tiền lương.",
+    "ans_extra": ""
+  },
+  {
+    "id": 70,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Tư bản khả biến ký hiệu là?",
+    "options": {
+      "A": "Ký hiệu là V.",
+      "B": "Ký hiệu là C.",
+      "C": "Ký hiệu là M.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Ký hiệu là V.",
+    "ans_extra": ""
+  },
+  {
+    "id": 71,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Tư bản bất biến ký hiệu là?",
+    "options": {
+      "A": "Ký hiệu là V.",
+      "B": "Ký hiệu là C.",
+      "C": "Ký hiệu là M.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "B",
+    "ans_text": "B. Ký hiệu là C.",
+    "ans_extra": ""
+  },
+  {
+    "id": 72,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Tư bản nào trực tiếp sinh ra giá trị thặng dư?",
+    "options": {
+      "A": "Tư bản khả biến.",
+      "B": "Tư bản bất biến.",
+      "C": "Tư bản bất biến và tư bản khả biến.",
+      "D": "Đầu xỏ tư bản."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Tư bản khả biến.",
+    "ans_extra": ""
+  },
+  {
+    "id": 73,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Tuần hoàn tư bản là sự vận động của?",
+    "options": {
+      "A": "Tư bản tiền tệ.",
+      "B": "Tư bản sản xuất.",
+      "C": "Tư bản hàng hóa.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Ba nhận định trên đúng.",
+    "ans_extra": ""
+  },
+  {
+    "id": 74,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Sự khủng hoảng của chủ nghĩa tư bản thường theo các giai đoạn?",
+    "options": {
+      "A": "Khủng hoảng - tiêu điều - khôi phục - hưng thịnh.",
+      "B": "Tiêu điều - khôi phục - hưng thịnh.",
+      "C": "Khủng hoảng - khôi phục - hưng thịnh.",
+      "D": "Khủng hoảng - tiêu điều - khôi phục."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Khủng hoảng - tiêu điều - khôi phục - hưng thịnh.",
+    "ans_extra": ""
+  },
+  {
+    "id": 75,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Công thức số lần chu chuyển trong 1 năm là?",
+    "options": {
+      "A": "n = CH/ch.",
+      "B": "n = ch/Ch.",
+      "C": "m' = m/v.",
+      "D": "m' = t'/t."
+    },
+    "ans_key": "A",
+    "ans_text": "A. n = CH/ch.",
+    "ans_extra": ""
+  },
+  {
+    "id": 76,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Theo quan điểm của C. Mác, có mấy phương pháp sản xuất giá trị thặng dư?",
+    "options": {
+      "A": "Có 2 phương pháp.",
+      "B": "Có 3 phương pháp.",
+      "C": "Có 4 phương pháp.",
+      "D": "Có 5 phương pháp."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Có 2 phương pháp.",
+    "ans_extra": ""
+  },
+  {
+    "id": 77,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Sản xuất giá trị thặng dư tương đối và sản xuất giá trị thặng dư tuyệt đối là?",
+    "options": {
+      "A": "Phương pháp sản xuất giá trị thặng dư.",
+      "B": "Phương pháp sản xuất.",
+      "C": "Sản xuất hàng hóa.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Phương pháp sản xuất giá trị thặng dư.",
+    "ans_extra": ""
+  },
+  {
+    "id": 78,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Hình thức của tái sản xuất gồm:",
+    "options": {
+      "A": "Tái sản xuất giản đơn và tái sản xuất mở rộng.",
+      "B": "Tái sản xuất giản đơn.",
+      "C": "Sản xuất giá trị thặng dư.",
+      "D": "Sản xuất hàng hóa để bán."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Tái sản xuất giản đơn và tái sản xuất mở rộng.",
+    "ans_extra": ""
+  },
+  {
+    "id": 79,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Hình thức sản xuất nào không có giá trị thặng dư?",
+    "options": {
+      "A": "Tái sản xuất giản đơn.",
+      "B": "Tái sản xuất mở rộng.",
+      "C": "Sản xuất nông nghiệp.",
+      "D": "Sản xuất hàng hóa."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Tái sản xuất giản đơn.",
+    "ans_extra": ""
+  },
+  {
+    "id": 80,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Hình thức sản xuất nào có giá trị thặng dư?",
+    "options": {
+      "A": "Tái sản xuất giản đơn.",
+      "B": "Tái sản xuất mở rộng.",
+      "C": "Sản xuất nông nghiệp.",
+      "D": "Sản xuất hàng hóa."
+    },
+    "ans_key": "B",
+    "ans_text": "B. Tái sản xuất mở rộng.",
+    "ans_extra": ""
+  },
+  {
+    "id": 81,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Có mấy nhân tố ảnh hưởng đến quy mô tích lũy tư bản?",
+    "options": {
+      "A": "Có 4 nhân tố.",
+      "B": "Có 2 nhân tố.",
+      "C": "Có 3 nhân tố.",
+      "D": "Có 5 nhân tố."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Có 4 nhân tố.",
+    "ans_extra": ""
+  },
+  {
+    "id": 82,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Cấu tạo hữu cơ của tư bản bao gồm?",
+    "options": {
+      "A": "Cấu tạo kỹ thuật và cấu tạo giá trị.",
+      "B": "Cấu tạo kỹ thuật và người lao động.",
+      "C": "Cấu tạo giá trị và khả năng áp dụng KHKT.",
+      "D": "Cấu tạo kỹ thuật."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Cấu tạo kỹ thuật và cấu tạo giá trị.",
+    "ans_extra": ""
+  },
+  {
+    "id": 83,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Về giá trị cấu tạo hữu cơ của tư bản chia thành?",
+    "options": {
+      "A": "Tư bản bất biến và tư bản khả biến.",
+      "B": "Tích tụ tư bản và tập trung tư bản.",
+      "C": "Tư bản khả biến.",
+      "D": "Tư bản bất biến."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Tư bản bất biến và tư bản khả biến.",
+    "ans_extra": ""
+  },
+  {
+    "id": 84,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Ký hiệu p' được hiểu là:",
+    "options": {
+      "A": "Tỷ suất lợi nhuận.",
+      "B": "Lợi nhuận.",
+      "C": "Chi phí sản xuất.",
+      "D": "Lợi nhuận bình quân."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Tỷ suất lợi nhuận.",
+    "ans_extra": ""
+  },
+  {
+    "id": 85,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Lợi tức được ký hiệu bằng?",
+    "options": {
+      "A": "Bằng z.",
+      "B": "Bằng p.",
+      "C": "Bằng p'",
+      "D": "Bằng r."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Bằng z.",
+    "ans_extra": ""
+  },
+  {
+    "id": 86,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Địa tô được ký hiệu bằng?",
+    "options": {
+      "A": "Bằng z.",
+      "B": "Bằng p.",
+      "C": "Bằng p'",
+      "D": "Bằng r."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Bằng r.",
+    "ans_extra": ""
+  },
+  {
+    "id": 87,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Chi phí sản xuất tư bản chủ nghĩa (k) bao gồm:",
+    "options": {
+      "A": "Bao gồm c và v.",
+      "B": "Bao gồm m và v.",
+      "C": "Bao gồm c và m.",
+      "D": "Bao gồm c, v và m."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Bao gồm c và v.",
+    "ans_extra": ""
+  },
+  {
+    "id": 88,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Về lượng, chi phí sản xuất tư bản chủ nghĩa (k):",
+    "options": {
+      "A": "Nhỏ hơn giá trị hàng hóa.",
+      "B": "Bằng giá trị hàng hóa.",
+      "C": "Lớn hơn giá trị hàng hóa.",
+      "D": "Nhỏ hơn giá trị thặng dư."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Nhỏ hơn giá trị hàng hóa.",
+    "ans_extra": ""
+  },
+  {
+    "id": 89,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Điền từ vào chỗ trống: Để tìm ra công thức chung của tư bản cần xem xét vai trò của ...?",
+    "options": {
+      "A": "Hàng hóa",
+      "B": "Lao động",
+      "C": "Sản xuất",
+      "D": "Tiền"
+    },
+    "ans_key": "D",
+    "ans_text": "D. Tiền",
+    "ans_extra": ""
+  },
+  {
+    "id": 90,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Khi nghiên cứu về công thức chung của tư bản thì số tiền trội ra lớn hơn được gọi là gì?",
+    "options": {
+      "A": "Tiền dư",
+      "B": "Giá trị thặng dư",
+      "C": "Lợi nhuận",
+      "D": "Tiền lãi"
+    },
+    "ans_key": "B",
+    "ans_text": "B. Giá trị thặng dư",
+    "ans_extra": ""
+  },
+  {
+    "id": 91,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Lao động sản xuất hàng hóa có hai mặt, đó là hai mặt nào sau đây?",
+    "options": {
+      "A": "Lao động cụ thể và lao động thực tế",
+      "B": "Lao động sản xuất và lao động mở rộng",
+      "C": "Lao động cụ thể và lao động trừu tượng",
+      "D": "Lao động tay chân và lao động làm thuê"
+    },
+    "ans_key": "C",
+    "ans_text": "C. Lao động cụ thể và lao động trừu tượng",
+    "ans_extra": ""
+  },
+  {
+    "id": 92,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Lao động cụ thể tạo ra thuộc tính nào của hàng hóa?",
+    "options": {
+      "A": "Tạo ra giá trị",
+      "B": "Tạo ra giá trị sử dụng",
+      "C": "Tạo ra tiền",
+      "D": "Tạo ra sức mạnh"
+    },
+    "ans_key": "B",
+    "ans_text": "B. Tạo ra giá trị sử dụng",
+    "ans_extra": ""
+  },
+  {
+    "id": 93,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Sức lao động trở thành hàng hóa khi hội tựu đủ mấy điều kiện?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "ans_key": "A",
+    "ans_text": "A. 2",
+    "ans_extra": ""
+  },
+  {
+    "id": 94,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Đâu là một trong hai điều kiện để sức lao động trở thành hàng hóa?",
+    "options": {
+      "A": "Người lao động có sức khỏe",
+      "B": "Người lao động được tự do về thân thể",
+      "C": "Người lao động có tư liệu sản xuất",
+      "D": "Người lao động có sức khỏe, có tư liệu sản xuất"
+    },
+    "ans_key": "B",
+    "ans_text": "B. Người lao động được tự do về thân thể",
+    "ans_extra": ""
+  },
+  {
+    "id": 95,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Giá trị của hàng hóa sức lao động do mấy bộ phận hợp thành?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "ans_key": "C",
+    "ans_text": "C. 3",
+    "ans_extra": ""
+  },
+  {
+    "id": 96,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Một trong các bộ phận nào sau đây hợp thành giá trị của hàng hóa sức lao động?",
+    "options": {
+      "A": "Sức lao động của con người",
+      "B": "Giá trị tư liệu sản xuất",
+      "C": "Mối quan hệ giữa người lao động với tư liệu sản xuất",
+      "D": "Phí tổn đào tạo người lao động"
+    },
+    "ans_key": "D",
+    "ans_text": "D. Phí tổn đào tạo người lao động",
+    "ans_extra": ""
+  },
+  {
+    "id": 97,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Tư bản là giá trị mang lại giá trị gì?",
+    "options": {
+      "A": "Giá trị tăng lên",
+      "B": "Giá trị sản xuất",
+      "C": "Giá trị thặng dư",
+      "D": "Giá trị tiêu dùng"
+    },
+    "ans_key": "C",
+    "ans_text": "C. Giá trị thặng dư",
+    "ans_extra": ""
+  },
+  {
+    "id": 98,
+    "chapter": "Chương 3: Giá trị thặng dư trong nền kinh tế thị trường",
+    "question": "Trong kinh tế chính trị thì tỷ suất lợi nhuận phản ánh vấn đề gì?",
+    "options": {
+      "A": "Mức doanh lợi đầu tư tư bản",
+      "B": "Quá trình sản xuất",
+      "C": "Trình độ lao động của người công nhân",
+      "D": "Việc phân phối sản phẩm"
+    },
+    "ans_key": "A",
+    "ans_text": "A. Mức doanh lợi đầu tư tư bản",
+    "ans_extra": ""
+  },
+  {
+    "id": 99,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "CNTB độc quyền là:",
+    "options": {
+      "A": "Một phương thức sản xuất mới.",
+      "B": "Một giai đoạn phát triển của phương thức sản xuất TBCN.",
+      "C": "Một hình thái KTXH.",
+      "D": "Một nấc thang phát triển của LLSX."
+    },
+    "ans_key": "B",
+    "ans_text": "B. Một giai đoạn phát triển của phương thức sản xuất TBCN.",
+    "ans_extra": ""
+  },
+  {
+    "id": 100,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Sự hình thành của các tổ chức độc quyền dựa trên cơ sở:",
+    "options": {
+      "A": "Sản xuất nhỏ phân tán.",
+      "B": "Tích tụ tập trung sản xuất cao và sự ra đời các xí nghiệp quy mô lớn.",
+      "C": "Sự xuất hiện của thành tựu mới khoa học.",
+      "D": "Sự hoàn thiện QHSX tư bản chủ nghĩa."
+    },
+    "ans_key": "B",
+    "ans_text": "B. Tích tụ tập trung sản xuất cao và sự ra đời các xí nghiệp quy mô lớn.",
+    "ans_extra": ""
+  },
+  {
+    "id": 101,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Nguyên nhân trực tiếp hình thành các tổ chức độc quyền là:",
+    "options": {
+      "A": "Tập trung sản xuất.",
+      "B": "Tập trung tiền tệ.",
+      "C": "Tập trung nguồn nhân lực.",
+      "D": "Sự bảo trợ của nhà nước tư sản."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Tập trung sản xuất.",
+    "ans_extra": ""
+  },
+  {
+    "id": 102,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Các tổ chức độc quyền được hình thành nhằm:",
+    "options": {
+      "A": "Tăng cường cạnh tranh.",
+      "B": "Quy định giá cả độc quyền để thu lợi nhuận độc quyền cao.",
+      "C": "Can thiệp vào hoạt động các xí nghiệp.",
+      "D": "Phân chia thị trường."
+    },
+    "ans_key": "B",
+    "ans_text": "B. Quy định giá cả độc quyền để thu lợi nhuận độc quyền cao.",
+    "ans_extra": ""
+  },
+  {
+    "id": 103,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Tổ chức độc quyền nào hình thành theo liên kết dọc?",
+    "options": {
+      "A": "Các ten.",
+      "B": "Tờrớt.",
+      "C": "Xanhđica.",
+      "D": "Côngxóocxiom."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Côngxóocxiom.",
+    "ans_extra": ""
+  },
+  {
+    "id": 104,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Điểm khác biệt của Công xoócxiom so với các tổ chức độc quyền trước nó là gì?",
+    "options": {
+      "A": "Độc quyền về kỹ thuật.",
+      "B": "Độc quyền về thương mại.",
+      "C": "Độc quyền về sản xuất.",
+      "D": "Liên kết các ngành."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Liên kết các ngành.",
+    "ans_extra": ""
+  },
+  {
+    "id": 105,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Mục đích thành lập các công ty vừa và nhỏ của các tổ chức độc quyền xuyên quốc gia là:",
+    "options": {
+      "A": "Độc quyền về kỹ thuật.",
+      "B": "Độc quyền về thương mại.",
+      "C": "Độc quyền về sản xuất.",
+      "D": "Hình thành hệ thống gia công phục vụ sản xuất."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Hình thành hệ thống gia công phục vụ sản xuất.",
+    "ans_extra": ""
+  },
+  {
+    "id": 106,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Hình thức liên kết của các tổ chức độc quyền xuyên quốc gia là:",
+    "options": {
+      "A": "Liên kết dọc.",
+      "B": "Liên kết ngang.",
+      "C": "Liên kết đa phương.",
+      "D": "Liên kết mạng lưới."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Liên kết mạng lưới.",
+    "ans_extra": ""
+  },
+  {
+    "id": 107,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Sự ra đời của tư bản tài chính là:",
+    "options": {
+      "A": "Sự hoạt động của thương nhân.",
+      "B": "Sự hoạt động của chủ nghĩa tư bản tự do cạnh tranh.",
+      "C": "Sự xâm nhập giữa tổ chức độc quyền ngân hàng và tổ chức độc quyền công nghiệp.",
+      "D": "Sự hoạt động tư bản ngân hàng phát triển tới sự thống trị toàn bộ các tư bản khác."
+    },
+    "ans_key": "C",
+    "ans_text": "C. Sự xâm nhập giữa tổ chức độc quyền ngân hàng và tổ chức độc quyền công nghiệp.",
+    "ans_extra": ""
+  },
+  {
+    "id": 108,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Chế độ tham dự của đầu xỏ tư bản tài chính là do:",
+    "options": {
+      "A": "Quyết định của nhà nước.",
+      "B": "Yêu cầu của các tổ chức ngân hàng.",
+      "C": "Yêu cầu các tổ chức công nghiệp.",
+      "D": "Số cổ phiếu không chế nắm công ty mẹ, con, cháu."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Số cổ phiếu không chế nắm công ty mẹ, con, cháu.",
+    "ans_extra": ""
+  },
+  {
+    "id": 109,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Cơ sở thiết lập chế độ tham dự của tư bản tài chính là:",
+    "options": {
+      "A": "Chiếm hữu tỷ lệ cổ phiếu khống chế.",
+      "B": "Sở hữu nhiều ngân hàng.",
+      "C": "Sở hữu nhiều tập đoàn công nghiệp lớn.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Chiếm hữu tỷ lệ cổ phiếu khống chế.",
+    "ans_extra": ""
+  },
+  {
+    "id": 110,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Xuất khẩu tư bản là đặc trưng của:",
+    "options": {
+      "A": "Chủ nghĩa tư bản tự do cạnh tranh.",
+      "B": "Chủ nghĩa tư bản độc quyền.",
+      "C": "Chủ nghĩa tư bản thực dân xâm lược.",
+      "D": "Xuất khẩu hàng hóa."
+    },
+    "ans_key": "B",
+    "ans_text": "B. Chủ nghĩa tư bản độc quyền.",
+    "ans_extra": ""
+  },
+  {
+    "id": 111,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Xuất khẩu tư bản là gì?",
+    "options": {
+      "A": "Mang tiền ra nước ngoài lập cơ sở sản xuất kinh doanh hoặc cho nước ngoài vay.",
+      "B": "Cho nước ngoài vay tiền.",
+      "C": "Mang hàng hóa bán ở nước ngoài thực hiện lợi nhuận.",
+      "D": "Sản xuất và mua bán ở nước ngoài."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Mang tiền ra nước ngoài lập cơ sở sản xuất kinh doanh hoặc cho nước ngoài vay.",
+    "ans_extra": ""
+  },
+  {
+    "id": 112,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Giải ngân vốn ODA của các nước tư bản là xuất khẩu tư bản nào?",
+    "options": {
+      "A": "Xuất khẩu tư bản Nhà nước.",
+      "B": "Xuất khẩu tư bản tư nhân.",
+      "C": "Xuất khẩu tư bản hoạt động.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Xuất khẩu tư bản Nhà nước.",
+    "ans_extra": ""
+  },
+  {
+    "id": 113,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Các tổ chức độc quyền thiết lập lãnh thổ biên giới mềm thông qua thị trường nào?",
+    "options": {
+      "A": "Thị trường hàng hóa và thị trường xuất khẩu tư bản.",
+      "B": "Thị trường Tiền tệ.",
+      "C": "Thị trường xuất khẩu tư bản.",
+      "D": "Thị trường hàng hóa."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Thị trường hàng hóa và thị trường xuất khẩu tư bản.",
+    "ans_extra": ""
+  },
+  {
+    "id": 114,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Xuất khẩu tư bản là:",
+    "options": {
+      "A": "Mang hàng hóa bán ở nước ngoài.",
+      "B": "Đầu tư tư bản ra nước ngoài nhằm bóc lột giá trị thăng dư ở nước ngoài.",
+      "C": "Xây dựng xí nghiệp ở nước ngoài.",
+      "D": "Mang tiền ra nước ngoài cho vay."
+    },
+    "ans_key": "B",
+    "ans_text": "B. Đầu tư tư bản ra nước ngoài nhằm bóc lột giá trị thăng dư ở nước ngoài.",
+    "ans_extra": ""
+  },
+  {
+    "id": 115,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Xuất khẩu tư bản tư nhân thường hướng vào các ngành:",
+    "options": {
+      "A": "Vốn chu chuyển chậm.",
+      "B": "Tốc độ chu chuyển nhanh, lợi nhuận cao.",
+      "C": "Lợi nhuận thấp, vốn chu chuyển chậm.",
+      "D": "Kết cấu hạ tầng sản xuất xã hội."
+    },
+    "ans_key": "B",
+    "ans_text": "B. Tốc độ chu chuyển nhanh, lợi nhuận cao.",
+    "ans_extra": ""
+  },
+  {
+    "id": 116,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Thực chất của sự phân chia thế giới về kinh tế là sự phân chia khu vực về:",
+    "options": {
+      "A": "Thị trường đầu tư và thị trường tiêu thụ.",
+      "B": "Thỏa mãn nhu cầu nguồn nguyên liệu ngày càng tăngcủa nguồn công nghiệp chính quốc.",
+      "C": "Cung cấp công nhân.",
+      "D": "Ba nhận định trên đúng"
+    },
+    "ans_key": "A",
+    "ans_text": "A. Thị trường đầu tư và thị trường tiêu thụ.",
+    "ans_extra": ""
+  },
+  {
+    "id": 117,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Đặc điểm kinh tế quan trọng nhất của chủ nghĩa tư bản độc quyền là:",
+    "options": {
+      "A": "Tập trung sản xuất và hình thành các tổ chức độc quyền.",
+      "B": "Xuất khẩu tư bản.",
+      "C": "Xuất khẩu tư bản tài chính.",
+      "D": "Hình thành hệ thống thuộc địa."
+    },
+    "ans_key": "A",
+    "ans_text": "A. Tập trung sản xuất và hình thành các tổ chức độc quyền.",
+    "ans_extra": ""
+  },
+  {
+    "id": 118,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Khi chủ nghĩa tư bản độc quyền ra đời thì:",
+    "options": {
+      "A": "Phủ định các quy luật trong giai đoạn chủ nghĩa tư bản tự do cạnh tranh.",
+      "B": "Phủ định các quy luật kinh tế của sản xuất hàng hóa.",
+      "C": "Làm cho các quy luật kinh tế của sản xuất hàng hóa và CNTB có 1 hình thức mới.",
+      "D": "Không làm thay đổi các quy luật kinh tế nói chung."
+    },
+    "ans_key": "C",
+    "ans_text": "C. Làm cho các quy luật kinh tế của sản xuất hàng hóa và CNTB có 1 hình thức mới.",
+    "ans_extra": ""
+  },
+  {
+    "id": 119,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Quy luật giá trị thặng dư biểu hiện trong giai đoạn chủ nghĩa tư bản độc quyền là:",
+    "options": {
+      "A": "Quy luật giá cả sản xuất.",
+      "B": "Quy luật giá cả độc quyền.",
+      "C": "Quy luật lợi nhuận bình quân.",
+      "D": "Quy luật lợi nhuận độc quyền."
+    },
+    "ans_key": "D",
+    "ans_text": "D. Quy luật lợi nhuận độc quyền.",
+    "ans_extra": ""
+  },
+  {
+    "id": 120,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Nguyên nhân hình thành lợi nhuận độc quyền là:",
+    "options": {
+      "A": "Cạnh tranh nội bộ ngành.",
+      "B": "Sự thèm khát giá trị thặng dư các nhà tư bản.",
+      "C": "Do vị thế độc quyền đem lại.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "C",
+    "ans_text": "C. Do vị thế độc quyền đem lại.",
+    "ans_extra": ""
+  },
+  {
+    "id": 121,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Bản chất độc quyền nhà nước trong chủ nghĩa tư bản:",
+    "options": {
+      "A": "Sự can thiệp nhà nước tư sản vào các quá trình kinh tế.",
+      "B": "Sự thâm nhập các tư bản độc quyền vào bộ máy nhà nước.",
+      "C": "Sự kết hợp sức mạnh độc quyền tư nhân với sức mạnh nhà nước tư sản.",
+      "D": "Sự kết hợp giữa người tổ chức độc quyền và nhà nước độc quyền."
+    },
+    "ans_key": "C",
+    "ans_text": "C. Sự kết hợp sức mạnh độc quyền tư nhân với sức mạnh nhà nước tư sản.",
+    "ans_extra": ""
+  },
+  {
+    "id": 122,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Mục đích cạnh tranh giữa các tổ chức độc quyền với các xí nghiệp ngoài độc quyền nhằm:",
+    "options": {
+      "A": "Sự phá sản.",
+      "B": "Sự thỏa hiệp để hình thành liên minh mới.",
+      "C": "Giành để chiếm thị trường.",
+      "D": "Giành tỷ lệ sản xuất cao."
+    },
+    "ans_key": "C",
+    "ans_text": "C. Giành để chiếm thị trường.",
+    "ans_extra": ""
+  },
+  {
+    "id": 123,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Kết quả cạnh tranh trong nội bộ các tổ chức độc quyền là:",
+    "options": {
+      "A": "Sự phá sản của đối thủ.",
+      "B": "Hình thành giá cả sản xuất.",
+      "C": "Giành giật tỷ lệ sản xuất cao.",
+      "D": "Ba nhận định trên đúng."
+    },
+    "ans_key": "C",
+    "ans_text": "C. Giành giật tỷ lệ sản xuất cao.",
+    "ans_extra": ""
+  },
+  {
+    "id": 124,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Trong chủ nghĩa tư bản, sự tự do cạnh tranh sẽ đẻ ra vấn đề gì?",
+    "options": {
+      "A": "Sản xuất độc lập, cạnh tranh",
+      "B": "Tập trung sản xuất và khi nó phát triển tới một mức độ nhất định sẽ dẫn tới độc quyền",
+      "C": "Cạnh tranh không lành mạnh, phân hóa giàu nghèo",
+      "D": "Cạnh tranh trong việc thuê nhân công lao động"
+    },
+    "ans_key": "B",
+    "ans_text": "B. Tập trung sản xuất và khi nó phát triển tới một mức độ nhất định sẽ dẫn tới độc quyền",
+    "ans_extra": ""
+  },
+  {
+    "id": 125,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Một trong những nguyên nhân nào dưới đây dẫn đến việc hình thành các tổ chức độc quyền?",
+    "options": {
+      "A": "Sự phát triển của lực lượng sản xuất",
+      "B": "Sự phát triển của kiến trúc thượng tầng",
+      "C": "Sự phát triển của cơ sở hạ tầng",
+      "D": "Sự phát triển của quan hệ sản xuất"
+    },
+    "ans_key": "A",
+    "ans_text": "A. Sự phát triển của lực lượng sản xuất",
+    "ans_extra": ""
+  },
+  {
+    "id": 126,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Giá cả độc quyền là giá cả do các tổ chức nào áp đặt?",
+    "options": {
+      "A": "Người tiêu dùng",
+      "B": "Người quản lý thị trường",
+      "C": "Người công nhân",
+      "D": "Các tổ chức độc quyền"
+    },
+    "ans_key": "D",
+    "ans_text": "D. Các tổ chức độc quyền",
+    "ans_extra": ""
+  },
+  {
+    "id": 127,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Độc quyền nhà nước trong chủ nghĩa tư bản ra đời do mấy nguyên nhân?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "ans_key": "D",
+    "ans_text": "D. 5",
+    "ans_extra": ""
+  },
+  {
+    "id": 128,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Độc quyền nhà nước trong chủ nghĩa tư bản hình thành nhằm phục vụ lợi ích của ai?",
+    "options": {
+      "A": "Đơn vị sản xuất",
+      "B": "Người công nhân",
+      "C": "Các tổ chức độc quyền tư nhân và tiếp tục duy trì, phát triển chủ nghĩa tư bản",
+      "D": "Người tiêu dùng"
+    },
+    "ans_key": "C",
+    "ans_text": "C. Các tổ chức độc quyền tư nhân và tiếp tục duy trì, phát triển chủ nghĩa tư bản",
+    "ans_extra": ""
+  },
+  {
+    "id": 129,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Chọn đáp án đúng nhất: độc quyền là kết quả của quá trình nào sau đây?",
+    "options": {
+      "A": "Tích tụ",
+      "B": "Tích tụ, tập trung sản xuất ở mức độ cao",
+      "C": "Tập trung sản xuất ở mức độ cao",
+      "D": "Tích tụ và tập trung sản xuất"
+    },
+    "ans_key": "B",
+    "ans_text": "B. Tích tụ, tập trung sản xuất ở mức độ cao",
+    "ans_extra": ""
+  },
+  {
+    "id": 130,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Độc quyền được sinh ra từ đâu?",
+    "options": {
+      "A": "Cạnh tranh tự do",
+      "B": "Quá trình sản xuất",
+      "C": "Quá trình lao động",
+      "D": "Quá trình tiêu dùng"
+    },
+    "ans_key": "A",
+    "ans_text": "A. Cạnh tranh tự do",
+    "ans_extra": ""
+  },
+  {
+    "id": 131,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Các tổ chức độc quyền có quy mô như thế nào?",
+    "options": {
+      "A": "Tích tụ sản xuất",
+      "B": "Quy mô phát triển",
+      "C": "Tích tụ và tập trung tư bản lớn",
+      "D": "Thu hẹp"
+    },
+    "ans_key": "C",
+    "ans_text": "C. Tích tụ và tập trung tư bản lớn",
+    "ans_extra": ""
+  },
+  {
+    "id": 132,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Trong các tổ chức độc quyền sau, tổ chức độc quyền nào có trình độ và quy mô lớn nhất?",
+    "options": {
+      "A": "Syndicate",
+      "B": "Trust",
+      "C": "Cartel",
+      "D": "Consortium"
+    },
+    "ans_key": "D",
+    "ans_text": "D. Consortium",
+    "ans_extra": ""
+  },
+  {
+    "id": 133,
+    "chapter": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+    "question": "Xuất khẩu tư bản được thực hiện dưới mấy hình thức?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "ans_key": "B",
+    "ans_text": "B. 2",
+    "ans_extra": ""
+  }
+]
