@@ -1,7 +1,7 @@
 # 🎓 Cổng Ôn Tập Thông Minh • Lý Luận Chính Trị Mác - Lênin
 
 [![GitHub Pages](https://img.shields.io/badge/Live_Demo-GitHub_Pages-2ea44f?style=for-the-badge&logo=github)](https://ciculs.github.io/MLN111/)
-[![Total Questions](https://img.shields.io/badge/Ng%C3%A2n_h%C3%A0ng-731_C%C3%A2u_chu%E1%BA%A9n-blue?style=for-the-badge)](https://ciculs.github.io/MLN111/)
+[![Total Questions](https://img.shields.io/badge/Ng%C3%A2n_h%C3%A0ng-1138_C%C3%A2u_chu%E1%BA%A9n-blue?style=for-the-badge)](https://ciculs.github.io/MLN111/)
 [![Offline First](https://img.shields.io/badge/Offline-100%25_No_Server-orange?style=for-the-badge)](https://ciculs.github.io/MLN111/)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
@@ -21,10 +21,10 @@
 - **Truy cập nhanh:** [Vào học MLN111](./MLN111_On_Tap_Thong_Minh.html)
 
 ### 2. 📈 MLN122 • Kinh Tế Chính Trị Mác - Lênin
-- **Ngân hàng câu hỏi:** **133 câu** trắc nghiệm cốt lõi chia theo 4 chương (Hàng hóa, Giá trị thặng dư, CNTB độc quyền, Kinh tế thị trường ĐHXHCN).
-- **Micro-batches:** 14 batches (10 câu/batch) với tiến độ độc lập.
+- **Ngân hàng câu hỏi:** **540 câu** trắc nghiệm chuẩn hóa chia toàn diện 6 chương giáo trình Bộ GD&ĐT (Nguồn Nhung Hoàng FPTU Đà Nẵng).
+- **Micro-batches:** 54 batches (10 câu/batch) với tiến độ độc lập.
 - **Lý thuyết & Mẹo 3s:** 15 thẻ lý thuyết trọng tâm và 37 cặp cheat sheet phản xạ tức thì.
-- **Thi thử:** Đề thi 40 câu bấm giờ theo phân bổ chuẩn (Chương 1: 7 câu; Chương 2, 3, 4: mỗi chương 11 câu).
+- **Thi thử:** Đề thi 40 câu bấm giờ theo phân bổ chuẩn cả 6 chương giáo trình.
 - **Truy cập nhanh:** [Vào học MLN122](./MLN122_On_Tap_Thong_Minh.html)
 
 ---
@@ -73,9 +73,11 @@
 ├── MLN111_598_Cau_Hoi_Va_Dap_An.json           # Dữ liệu ngân hàng MLN111 dạng JSON
 ├── MLN111_598_Cau_Hoi_Va_Dap_An.md             # Đề cương trắc nghiệm MLN111 Markdown
 ├── MLN111_Tong_Hop_Kien_Thuc_On_Thi_Nhanh.md   # Sổ tay lý thuyết & bẫy thi MLN111
-├── MLN122_On_Tap_Thong_Minh.html               # Ứng dụng web ôn thi MLN122 (133 câu)
-├── MLN122_133_Cau_Hoi_Va_Dap_An.json           # Dữ liệu ngân hàng MLN122 dạng JSON
-├── MLN122_133_Cau_Hoi_Va_Dap_An.md             # Đề cương trắc nghiệm MLN122 Markdown
+├── MLN122_On_Tap_Thong_Minh.html               # Ứng dụng web ôn thi MLN122 (540 câu)
+├── MLN122_540_Cau_Hoi_Va_Dap_An.json           # Dữ liệu ngân hàng MLN122 dạng JSON (540 câu)
+├── MLN122_133_Cau_Hoi_Va_Dap_An.json           # Tương thích ngược (trỏ sang bộ 540 câu)
+├── MLN122_540_Cau_Hoi_Va_Dap_An.md             # Đề cương trắc nghiệm MLN122 Markdown (540 câu)
+├── MLN122_133_Cau_Hoi_Va_Dap_An.md             # Tương thích ngược Markdown
 ├── MLN122_Tong_Hop_Kien_Thuc_On_Thi_Nhanh.md   # Tóm tắt lý thuyết & công thức MLN122
 ├── mln122_meta.json                            # Dữ liệu mẹo phản xạ 3s & lý thuyết MLN122
 └── README.md                                   # Tài liệu hướng dẫn sử dụng

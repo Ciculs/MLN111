@@ -1,7 +1,7 @@
 # GIÁO TRÌNH TỔNG HỢP LÝ THUYẾT CHI TIẾT & CẨM NANG ÔN THI CẤP TỐC MLN122
-## KINH TẾ CHÍNH TRỊ MÁC - LÊNIN (CHUẨN 133 CÂU HỎI TRẮC NGHIỆM ĐỀ THI)
+## KINH TẾ CHÍNH TRỊ MÁC - LÊNIN (CHUẨN 540 CÂU HỎI TRẮC NGHIỆM ĐỀ THI)
 
-> **Biên soạn & Tổng hợp toàn diện:** Bám sát chương trình chuẩn Bộ GD&ĐT môn Kinh tế chính trị Mác - Lênin (MLN122) và chuẩn hóa trực tiếp từ bộ ngân hàng 133 câu trắc nghiệm thi đại học (Chương 1, 2, 3, 4).
+> **Biên soạn & Tổng hợp toàn diện:** Bám sát chương trình chuẩn Bộ GD&ĐT môn Kinh tế chính trị Mác - Lênin (MLN122) và chuẩn hóa trực tiếp từ bộ ngân hàng 540 câu trắc nghiệm thi đại học (Toàn bộ 6 chương - Nguồn Nhung Hoàng).
 > **Mục tiêu:** Cung cấp cẩm nang tra cứu phản xạ 3 giây, lý thuyết cốt lõi, công thức tính toán, hệ thống bảng so sánh đối chiếu trực quan và cảnh báo các cạm bẫy câu chữ dễ mất điểm nhất trong phòng thi.
 
 ---
